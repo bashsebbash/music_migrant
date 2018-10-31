@@ -1,0 +1,880 @@
+,name,artist,album,track_number,Artist,storeId
+0,The Anthem,['Myke Bogan'],Silk Jockstrap,6.0,['Myke Bogan'],T6koip4uh5isnz4covsajifhpkm
+1,Me Gustas Tu,['Manu Chao'],Próxima Estación: Esperanza,6.0,['Manu Chao'],T7r3qdfgqorsijomcrdblc552yu
+2,Gasoline,['Prof'],Liability,16.0,['Prof'],T5gdacdcrxunvlzuoosl5eczway
+3,Slow Burn,['Doomtree'],False Hopes,7.0,['Doomtree'],T2f7om2v4jaqhs2f4qbb2audscy
+4,All Your Light (Times Like These),['Portugal. The Man'],In The Mountain In The Cloud,8.0,['Portugal. The Man'],T5npbrnosql3ckjw4n5oiamo7xm
+5,The Ringer,['Eminem'],Kamikaze,1.0,['Eminem'],Twpz67tpoe4f3rsfeu4guqo2jii
+6,Greatest,['Eminem'],Kamikaze,2.0,['Eminem'],Td43dsxg6ij262bke2cz6jbv22y
+7,Lucky You (feat. Joyner Lucas),"['Eminem', ' Joyner Lucas']",Kamikaze,3.0,"['Eminem', ' Joyner Lucas']",Tea2hr6ed6yjeoix44jrcugsaf4
+8,Paul - Skit,['Paul Rosenberg'],Kamikaze,4.0,['Paul Rosenberg'],Tksyzc46znh7yuuwzn3ia7vcigm
+9,Normal,['Eminem'],Kamikaze,5.0,['Eminem'],T3nwz55t3fwgxci5p3wm765xakm
+10,Em Calls Paul - Skit,['Eminem'],Kamikaze,6.0,['Eminem'],To3vonuipb6gonvdycgujm4mosm
+11,Stepping Stone,['Eminem'],Kamikaze,7.0,['Eminem'],Txs6zsosllsxchrmdslpbw4b4d4
+12,Not Alike (feat. Royce Da 5'9),"['Eminem', ' Royce Da 5\\9']",Kamikaze,8.0,"['Eminem', ' Royce Da 5\\9']",T7m7267xcetgqfcm2a22zilypli
+13,Kamikaze,['Eminem'],Kamikaze,9.0,['Eminem'],Tqvgwvruq6ztmayfr4wtyqhu2h4
+14,Fall,['Eminem'],Kamikaze,10.0,['Eminem'],Tcsx3spz3l4kvhrly656echwz2e
+15,Nice Guy (with Jessie Reyez),"['Eminem', ' Jessie Reyez']",Kamikaze,11.0,"['Eminem', ' Jessie Reyez']",T4biyvmpei4wqit62laysayp4ve
+16,Good Guy (feat. Jessie Reyez),"['Eminem', ' Jessie Reyez']",Kamikaze,12.0,"['Eminem', ' Jessie Reyez']",T3jmtzd7aemr3ufodcrclxf7vme
+17,Venom - Music From The Motion Picture,['Eminem'],Kamikaze,13.0,['Eminem'],Tax4htzz2xxbwjriw23ap46tkba
+18,Coffee And Wine,['Chadwick Stokes'],Simmerkane II,11.0,['Chadwick Stokes'],T2qmf43encjkbhsue2csnkv3qva
+19,Altitude Check,['The Bad Tenants'],Altitude Check,1.0,['The Bad Tenants'],T6z4k4gavqjfadl4irk4w4sxamu
+20,Don’t Matter To Me,"['Drake', ' Michael Jackson']",Scorpion,10.0,"['Drake', ' Michael Jackson']",Tqe2ad4ctgbbthxdotk5vi3mqs4
+21,After Dark,"['Drake', ' Static Major', ' Ty Dolla $ign']",Scorpion,11.0,"['Drake', ' Static Major', ' Ty Dolla $ign']",Txabz4stl3ho5znhikgh4gq74km
+22,Sick and Tired,['Pasadena'],Sick and Tired,4.0,['Pasadena'],Tbmqtthrlba6ooxy7xlux7byrra
+23,Curse + Crush,['Dispatch'],"America, Location 12",3.0,['Dispatch'],Tiyddr5q4plixaqbzkw3mxkzaje
+24,The General,['Dispatch'],Bang Bang,3.0,['Dispatch'],Tyerhi6b7opa7x2bpflloikmvwq
+25,Josaphine,['Dispatch'],Circles Around the Sun,5.0,['Dispatch'],Tlc6jzif3yaryfjbala4mlzfnum
+26,Be Gone,['Dispatch'],"America, Location 12",1.0,['Dispatch'],Ttqhzm7p6uxex2fzo52hjauov5a
+27,Pilot with a Fear of Heights,['Felicity'],Pilot with a Fear of Heights,1.0,['Felicity'],Tu5vb3n4l3fdy55hdzutifprrhe
+28,Life Is A Honeymoon,"['Florida Georgia Line', ' Ziggy Marley']",Dig Your Roots,3.0,"['Florida Georgia Line', ' Ziggy Marley']",Tzdy47nghcxezwqjkyek6xwln34
+29,Life Is A Highway,['Tom Cochrane'],Mad Mad World,1.0,['Tom Cochrane'],Tzuqefjto7xyddxpvze7dhtjsoa
+30,Closer To The Sun (Colorado Dreamin') [Bonus Track],['Amp Live'],Headphone Concerto (Bonus Tracks Edition),16.0,['Amp Live'],
+31,Fast Lane,['Shrub'],Highceratops,2.0,['Shrub'],T6mhjxkv55i6evj7z7vrfx32qky
+32,Ya Mama,['The Pharcyde'],Bizarre Ride II The Pharcyde (Deluxe Edition),11.0,['The Pharcyde'],
+33,The Dog Is Mine,['K-OS'],BLack on BLonde,1.0,['K-OS'],Tvptygx2j3inuqfxxk5wudxqqwm
+34,Black Birds,['ArtOfficial'],Vitamins & Minerals,6.0,['ArtOfficial'],T4op2snxgoa2b2mwr4aqmboo2kq
+35,Deception,['Blackalicious'],Nia,4.0,['Blackalicious'],To32mm53dvrfksqm2ca42t2lpha
+36,Indica Badu,"['Logic', ' Wiz Khalifa']",Bobby Tarantino II,6.0,"['Logic', ' Wiz Khalifa']",T32xl47bw6ycd5dcw42ike6l57e
+37,Another Galaxy,['Mac Lethal'],Postcards from Kansas City,3.0,['Mac Lethal'],Tngkjfluuzrldy37qqbiv4ddddy
+38,Thank You For Tonight (feat. Eliza Young),"['Sam Lachow', ' Eliza Young']",Brand New Bike,1.0,"['Sam Lachow', ' Eliza Young']",Th5tvircb3foyy3y27zk7za4nna
+39,Fall From Paradise,['Classified'],While You Were Sleeping,4.0,['Classified'],Tolpmha24gyrkknjzxarh62zw3y
+40,Fall From Paradise,['Classified'],While You Were Sleeping,4.0,['Classified'],Tolpmha24gyrkknjzxarh62zw3y
+41,Bayo,"['Michael Brun', ' Strong G', ' Baky', ' J Perry']",Bayo,1.0,"['Michael Brun', ' Strong G', ' Baky', ' J Perry']",Tvzgykhndxmhbqpxqdkqw5b5pz4
+42,Sirens,['The String Cheese Incident'],Untying the Not,2.0,['The String Cheese Incident'],Tt7lycr645ajycuaeawyxr3rski
+43,Perspective,['K.A.A.N.'],Uncommon Knowledge,4.0,['K.A.A.N.'],T23odgngfxl7vdif6vhxjouj7re
+44,Epiphany (feat. NF),"['Futuristic', ' NF']",Epiphany (feat. NF),1.0,"['Futuristic', ' NF']",Tafq7evntmu472sbwgedbp6mfzy
+45,2 Week Notice,['Jon Connor'],Unconscious State,12.0,['Jon Connor'],Tws3hhx7bdk2xyhwa3xfh6odomi
+46,Illegal Smile - Live,['John Prine'],John Prine Live,10.0,['John Prine'],Tbwqfnqwelnvdop7eh7jzbn4sru
+47,This Is Me,['Asheru and Blue Black of The Unspoken Heard'],Soon Come...,8.0,['Asheru and Blue Black of The Unspoken Heard'],Taeqsjh4nqdvhezjk4v3rngtjnq
+48,All About You w/ Classified,['Chad Hatcher'],Tunnels & Pathways,13.0,['Chad Hatcher'],
+49,Conspiracy Theories w/ out Mel Gibson,['Weerd Science'],Friends And Nervous Breakdowns,2.0,['Weerd Science'],Tbqrv63etcwj5tzlolangvbnfba
+50,Watch It Crash,['Toh Kay'],Streetlight Lullabies,1.0,['Toh Kay'],T7sjibjbromcbk6tletfr6ttpbu
+51,Champion,"['Grand Tapestry', ' The Grouch', ' Eamon']",Grand Tapestry,11.0,"['Grand Tapestry', ' The Grouch', ' Eamon']",Tjagqiibez4b7ullvjnoc7agi2a
+52,This Won't Last Forever,['Ceschi'],Broken Bone Ballads,4.0,['Ceschi'],Thrbi4sy4swejadeqpnooyt3cii
+53,Bat Box 9,['Houdinne'],Damn EP,5.0,['Houdinne'],
+54,Drinking with My Headphones On,['E-Dubble'],hip-hop is good,7.0,['E-Dubble'],Tyk65ohkw2btfen37vuegcnxrh4
+55,All the Way Live,['LOOPRAT'],How Live?,3.0,['LOOPRAT'],Tphgymkhmictqhtghkxmtu52w2e
+56,Heavy Head,['Classified'],Greatful,5.0,['Classified'],Tc77jgb74h3lbgbgoii7rso2rnm
+57,Livin' Easy (feat. Stick Figure),"['KBong', ' Stick Figure']",Hopes and Dreams,3.0,"['KBong', ' Stick Figure']",Tdjiwiicaeoyx6xetngjx5ew5na
+58,Outside,['Dave B.'],Punch Drunk,1.0,['Dave B.'],Teplkdzmsg6p6xwxwbpnyoqml3i
+59,Big Poppa,['The Notorious B.I.G.'],Ready To Die The Remaster,13.0,['The Notorious B.I.G.'],T65hy5cxnhcjkeq76q4n6uouqce
+60,What's The Difference,"['Dr. Dre', ' Eminem', ' Xzibit']",2001,7.0,"['Dr. Dre', ' Eminem', ' Xzibit']",T3lpwtkc4oevmvn57u3l2kvh274
+61,N.Y. State of Mind,['Nas'],Illmatic XX,2.0,['Nas'],Tk75v5vjyiv5ulqzdz4strd5qa4
+62,Believe,['Eminem'],Revival,2.0,['Eminem'],Tu5h67zbpjvxcoo273ljcrqncxq
+63,Remind Me,['Eminem'],Revival,7.0,['Eminem'],Tjze2fmqpynzphvqy7jmgbq24uu
+64,Revival (Interlude),['Eminem'],Revival,8.0,['Eminem'],Tvc5yocajyvkkhzxjcdbrn7wfzq
+65,Tragic Endings (feat. Skylar Grey),"['Eminem', ' Skylar Grey']",Revival,11.0,"['Eminem', ' Skylar Grey']",Tibom6eatihwoktp2pwk4ycgrba
+66,Framed,['Eminem'],Revival,12.0,['Eminem'],T2gpqfoilfoad3qoiydqcrf3lqy
+67,Nowhere Fast (feat. Kehlani),"['Eminem', ' Kehlani']",Revival,13.0,"['Eminem', ' Kehlani']",To6ioakkqpozq2heohbxmjnxoza
+68,Heat,['Eminem'],Revival,14.0,['Eminem'],T4tfnlfntifnys5uszucjewwqly
+69,Offended,['Eminem'],Revival,15.0,['Eminem'],Tehbztcxbnckb6sczsgp4ok3il4
+70,Need Me (feat. Pink),"['Eminem', ' P!nk']",Revival,16.0,"['Eminem', ' P!nk']",Taqftqsrrigftrbzeufahy3pxmy
+71,In Your Head,['Eminem'],Revival,17.0,['Eminem'],Tvt2el55uqbuehfw6gn4zrjpj5a
+72,Castle,['Eminem'],Revival,18.0,['Eminem'],Tzkgimgb7f3hkuevkiciuzgnn2m
+73,Arose,['Eminem'],Revival,19.0,['Eminem'],Thieqn6ephsjtm5hxhdo5753xte
+74,Lies Song (feat. Wax & Shane Reis),"['Spose', ' Shane Reis', ' Wax']",Why Am I So Happy?,4.0,"['Spose', ' Shane Reis', ' Wax']",Tb2dzr4yw3d3qppajuzust3savi
+75,Sloth's Revenge,['Dirty Heads'],Home | Phantoms of Summer: The Acoustic Sessions,10.0,['Dirty Heads'],Taurarfzrywdhjvwj3fblezrhsm
+76,Kaancepts 2,['K.A.A.N.'],1 / 12 / 199?,1.0,['K.A.A.N.'],
+77,Sex n' Drugs,"['Abhi The Nomad', ' Harrison Sands', ' Copper King']",Sex n' Drugs,1.0,"['Abhi The Nomad', ' Harrison Sands', ' Copper King']",T2yb7xzl2xtvz67fgjszj3yf25u
+78,Phoenix,['K.A.A.N.'],Eclectic Audio,3.0,['K.A.A.N.'],
+79,About Girls,['Abhi The Nomad'],Beginning EP (Alternative Hip Hop),5.0,['Abhi The Nomad'],Tld5omjgagud6bwie7rgr6icdue
+80,About Girls,['Abhi The Nomad'],Beginning EP (Alternative Hip Hop),5.0,['Abhi The Nomad'],Tld5omjgagud6bwie7rgr6icdue
+81,Broad Shoulders (feat. Chance the Rapper),"['Taylor Bennett', ' Chance the Rapper']",Broad Shoulders,10.0,"['Taylor Bennett', ' Chance the Rapper']",Teovpbehjactzsnnzarqzggtjhi
+82,Foreplay,['Jalen Santoy'],Foreplay,1.0,['Jalen Santoy'],Td62xpiews2zvkpsslmn652idta
+83,Coolin' (feat. Dizzy Wright & Rob Curly),"['Bliss n Eso', ' Dizzy Wright', ' Rob Curly']",Off The Grid,4.0,"['Bliss n Eso', ' Dizzy Wright', ' Rob Curly']",Tkfrraqnp43km3wlcx5bldtyad4
+84,Rigamortus,['Kendrick Lamar'],Section.80,12.0,['Kendrick Lamar'],Tlji2zjcrx2jkiyllqtxzmcm5di
+85,Yellow Bird,['Pretty Lights'],A Color Map of the Sun (Deluxe Version),5.0,['Pretty Lights'],T354z7yrgi2yy5oaht6qqnmv33e
+86,"Baby, I'm Bad Weather",['Toussaint Morrison'],Toussaint Morrison Is Not My Boyfriend,3.0,['Toussaint Morrison'],
+87,Blame It on My Youth,['Brothers From Another'],Blame It on My Youth,1.0,['Brothers From Another'],Tomfsc2bys2snhhcvqramxy3cmu
+88,Eleven 11: / 11,['Rob Curly'],Eleven,7.0,['Rob Curly'],Ta2ekbyvdmgsutc22mas3767jqq
+89,Creflo Almighty Dollar (feat. Twista & ChuchPeople),"['Sir the Baptist', ' Twista', ' ChuchPeople']",Creflo Almighty Dollar (feat. Twista & ChuchPeople),1.0,"['Sir the Baptist', ' Twista', ' ChuchPeople']",Tgpmuf5amlc6kxltquvp67wdm7q
+90,Time to Grow,['Collective Efforts'],Freezing World,11.0,['Collective Efforts'],T2ocppivoseeartglic6hms3rgu
+91,Rip It up Slow,['Foreign Talks'],No Ceilings,5.0,['Foreign Talks'],Txaq6szqko4ljzt7v4mnshetmti
+92,Number 9,['Moon Hooch'],Moon Hooch,1.0,['Moon Hooch'],Tjwmujyxjdmn6az4gchepapfgke
+93,Astrovan,['Mt. Joy'],Astrovan,1.0,['Mt. Joy'],Tpxwiyaaanllpl4st3lbqu6pnu4
+94,Can't Love Me (feat. Jackson Breit),"['Abstract', ' Jackson Breit']",Can't Love Me (feat. Jackson Breit),1.0,"['Abstract', ' Jackson Breit']",
+95,Sour Patch Kids - Acoustic Redux,['Bryce Vine'],Lazier Fair: Acoustic,1.0,['Bryce Vine'],Tsplzreqfbpnmx34hipv2dljej4
+96,Jimme's Song (Full Band Version),['Emanuel and the Fear'],Listen,4.0,['Emanuel and the Fear'],Tkxma6tkahmrvr4c4exzxq6ww44
+97,Okay Okay - Remastered,['Pino DAngiò'],Okay Okay / Hey Ciao Tu,1.0,['Pino DAngiò'],Tqiydmcpqp722bqr242votamut4
+98,Before and After,['Lyrics Born'],Later That Day...,10.0,['Lyrics Born'],Tbvqayt4apfvarqypwlthsste6q
+99,Touch,"['Daft Punk', ' Paul Williams']",Random Access Memories,7.0,"['Daft Punk', ' Paul Williams']",Tio767e2t7aoae75es23oruhkiy
+100,Crave,['Gabe Dixon'],Turns to Gold,2.0,['Gabe Dixon'],Tx5lypk3n4jer3v5o3xtymvnmtm
+101,Petals (Live at Pyramid Rock),['Dylan Joel'],Songs for the Sea,10.0,['Dylan Joel'],
+102,Dirty Laundry - Heavy Load,"['Laura Silberberg', ' Skratch Bastid', ' Afiara Quartet']",Spin Cycle,8.0,"['Laura Silberberg', ' Skratch Bastid', ' Afiara Quartet']",T2w2sh3nms2tz5nbcz32n5fwrnm
+103,Pigeon,['Maps & Atlases'],Perch Patchwork,9.0,['Maps & Atlases'],Tn2cdl6kchrydv7shsdkhxmywr4
+104,Chai,['Isao Tsukamoto'],ARCHES,9.0,['Isao Tsukamoto'],Tmebmy3zb3jxagjt26b74elwdmi
+105,Two Track Mind,['Prolyphic & Reanimator'],The Ugly Truth,11.0,['Prolyphic & Reanimator'],Tkhlgs7ojrnuz6zhj2og2h6csz4
+106,Diner Song,['State Radio'],Us Against The Crown,9.0,['State Radio'],This7whxhm6czzoy2zlatlwb4fu
+107,Tarova,['Snarky Puppy'],Culcha Vulcha,1.0,['Snarky Puppy'],Tsunblfx465j5g5pr44n6kuyy2q
+108,Birk's Works,['Art Pepper'],Art Pepper Meets The Rhythm Section (OJC Remaster),9.0,['Art Pepper'],Tmoowhzx3kylzxhje4na5vgk2cy
+109,Love in a Minor Key,['Welshly Arms'],Welshly Arms,1.0,['Welshly Arms'],Tnd3hlwwnwiodcehycbkwgjarqm
+110,Strasbourg / St. Denis,['Roy Hargrove'],Earfood,3.0,['Roy Hargrove'],Tz2z6wifn7owhpew2yjfcq2dvj4
+111,Engineer Says,['Dr. Dog'],The Psychedelic Swamp,8.0,['Dr. Dog'],T6ybslb24sytdzzqqotg76tng5y
+112,We Move Easy,['Welshly Arms'],Welshly Arms,5.0,['Welshly Arms'],T7m54wkqqymidyhjzoeilzysnxa
+113,Hihache - Remastered,['Lafayette Afro Rock Band'],Afro Funk Explosion!,2.0,['Lafayette Afro Rock Band'],Tfsec7rwlkcxeysdquvlqdecz5y
+114,In Need - Remastered,['Grand Funk Railroad'],Grand Funk (Red Album) [Remastered],5.0,['Grand Funk Railroad'],Toxlb6vibidxcvwhhjnlmgmeovq
+115,Revolution - Remastered,['The Beatles'],The Beatles 1967 - 1970 (Remastered),14.0,['The Beatles'],Tbl5wh5pssvwdalewfs2oxki7km
+116,Laughter Is The Best Medicine,['Cass McCombs'],Mangy Love,3.0,['Cass McCombs'],T4uxthaxa2bf2ftvkghmeov4hre
+117,Preservation,"['Aesop Rock', ' Del The Funky Homosapien', ' Wu-Tang Clan']",Wu-Tang Meets The Indie Culture,16.0,"['Aesop Rock', ' Del The Funky Homosapien', ' Wu-Tang Clan']",Tfwsah2r3ng4ivofa5dbtiz3mbi
+118,Easy,['Commodores'],The Commodores: The Definitive Collection,7.0,['Commodores'],Tesxcyidmzq6ppyjbojfmc7smta
+119,Hocus Pocus,['Focus'],The Best Of Focus / Hocus Pocus (Incl WC 2010 Version of 'Hocus Pocus'),2.0,['Focus'],Tollolcadzqxvuvktmhmtd7y2dm
+120,Hocus Pocus,['Focus'],The Best Of Focus / Hocus Pocus (Incl WC 2010 Version of 'Hocus Pocus'),2.0,['Focus'],Tollolcadzqxvuvktmhmtd7y2dm
+121,Never Never Gonna Give Ya Up,['Barry White'],Barry White's Greatest Hits,6.0,['Barry White'],Tfhequz7qz2scugmbrodta6yrqq
+122,Unsquare Dance,['Dave Brubeck'],Dave Brubeck's Greatest Hits,9.0,['Dave Brubeck'],Tlnikbo5sk4r5fpwwq4ddqfd2wu
+123,Kashmere,['Kashmere Stage Band'],The Funky 16 Corners,11.0,['Kashmere Stage Band'],Tsv5td2oudgfmpku22u4iqxjcbm
+124,Radar Love,['Golden Earring'],The Long Versions - Part One,1.0,['Golden Earring'],Tshbuqn32az3j7uvybkeungxkeq
+125,Waitin' to Die,['Useful Jenkins'],Festival Express,10.0,['Useful Jenkins'],Tojnttpwlacfaa67bncecrnxpau
+126,Walk On The Wild Side / Can I Kick It - Live,['Horrorshow'],Live From The Listen Close Tour,12.0,['Horrorshow'],Tfrp7ttduzofncxtniaxyt3bqge
+127,Got To Do,['TZU'],Computer Love,7.0,['TZU'],T4l5nn4k7pr6w4sjvdyzcq3xd3e
+128,All We Got,['Dem Atlas'],DWNR,4.0,['Dem Atlas'],Tyia6goeqosfaruc7u3p6e7gr7y
+129,The End of the World,['Travis Thompson'],The End of the World,1.0,['Travis Thompson'],Tqv2nfyydad6fj3ehpqd7nizhia
+130,Rest in Peddles,"['Granata', ' Phoniks']",Rest in Peddles,1.0,"['Granata', ' Phoniks']",Tagxtr22pvp5k6a2a5huxuetnle
+131,Before We Lose Our Mind,['The Hip Abduction'],Gold Under The Glow,1.0,['The Hip Abduction'],Ti6dzyfjwes4t4rpzpumhbgf55y
+132,Don't Quit (Smoking and Shit) [feat. Alex Wiley],"['Kembe X', ' Alex Wiley']",Self Rule,7.0,"['Kembe X', ' Alex Wiley']",Tgga5o6twfmlwfxrmczn3aihad4
+133,Bring It On,['Spiritual Rez'],Apocalypse Whenever,3.0,['Spiritual Rez'],Tkc6wclogjn7fbfkoynm7cr2lf4
+134,Lost in the Cold,['Twiddle'],Plump Chapter 1,3.0,['Twiddle'],Tcpaclqimn5dtrmon6kcgz3k3ka
+135,See You Leave,"['RJD2', ' STS', ' Khari Mateen']",More Is Than Isn't,10.0,"['RJD2', ' STS', ' Khari Mateen']",Th6cnmh4xdq5pw24b4vmgqppjlu
+136,The Art Form (feat. Stella),"['Jared Evan', ' Stella']",The Art Form of Whatever,1.0,"['Jared Evan', ' Stella']",
+137,Lo Eres Todo (En Vivo),['Guaco'],Guaco Histórico (En Vivo),3.0,['Guaco'],Teafqwkunxecial3244sz5z5tn4
+138,Te Quiero,['Ricardo Arjona'],Independiente + Demos,9.0,['Ricardo Arjona'],Tvah7gcgag6bexhgub2i676gycy
+139,The Idea (feat. Mario Sweet),"['Sam Lachow', ' Mario Sweet']",Huckleberry,1.0,"['Sam Lachow', ' Mario Sweet']",Tchsrjxvkmlupkvkzm5cihyvtwa
+140,No Rules,"['Locksmith', ' Fred the Godson', ' Mally Stakz']",The Lock Sessions,6.0,"['Locksmith', ' Fred the Godson', ' Mally Stakz']",Tjomxogfrpvcxn2u3aq6cimr5jm
+141,Murder Was The Case (Death After Visualizing Eternity) (feat. Dat Nigga Daz),"['Snoop Dogg', ' Daz Dillinger']",Doggystyle,6.0,"['Snoop Dogg', ' Daz Dillinger']",Td53vioh7aa65nlfiegelqrbafa
+142,Ya Me Enteré,['Reik'],Des/Amor,7.0,['Reik'],Tpy3jaftc5nm6223etj7o4qkigq
+143,Blue Shelled,['Waking Aida'],Full Heal,2.0,['Waking Aida'],Tgrpe3rnlqfog2bukyfcvdivwf4
+144,Forgot About Dre Verse,['Anilyst'],Forgot About Dre Verse,1.0,['Anilyst'],
+145,Check Your System,['Captiva'],Check Your System,1.0,['Captiva'],Tzm72tpzrxonf6lf6n5alaw4ea4
+146,Hand Me That,['YYZ'],The Reason,3.0,['YYZ'],Thlwx3pwdinnyhs73at4qas2hw4
+147,Vultures Of Culture,['Nahko and Medicine for the People'],On The Verge,3.0,['Nahko and Medicine for the People'],Tlg4dztnr4ctvitaeibgiv62vg4
+148,Amor Papaya,"['Carlos Sadness', ' Caloncho']",Amor Papaya,1.0,"['Carlos Sadness', ' Caloncho']",Tx3ejp4lx3isnahy66wijvnzjkq
+149,Fresh Fruit,['Carter Reeves'],Fresh Fruit,1.0,['Carter Reeves'],Tneftxs23z75eix7yf53jqocahe
+150,Try,['SonReal'],For The Town EP,4.0,['SonReal'],Ttfrhkseiqe5mlji755xznqojwi
+151,Om,['Nehruviandoom'],NehruvianDOOM,2.0,['Nehruviandoom'],Tcosn2jr7odrvx352w25gae4fla
+152,Northern Lights,['The Physics'],Digital Wildlife,3.0,['The Physics'],
+153,Where I Wanna Be,"['Shade Sheist', ' Nate Dogg', ' Kurupt']",Informal Introduction,14.0,"['Shade Sheist', ' Nate Dogg', ' Kurupt']",Tbqo7ve7n7wpulapckwlgocdscy
+154,Hard Times,['Doujah Raze'],Doujah Raze,16.0,['Doujah Raze'],T3dyvavedavn46qu6l4xa7csazy
+155,Raise Hell,['Dorothy'],ROCKISDEAD,3.0,['Dorothy'],Tdps6ffohd3iiigft5cb3m56rny
+156,All Shook Up,['Nick Lutsko'],Etc.,4.0,['Nick Lutsko'],Tifiab3ofdfcmphw4rkruqy26pe
+157,Alcoholic,"['Tropidelic', ' Bumpin Uglies']",Police State,5.0,"['Tropidelic', ' Bumpin Uglies']",T2pjcqdpxmehfc47qbwju5ev44m
+158,Un Cigarrito Y Un Cafe,['Guaco'],Gaitas Platinum,1.0,['Guaco'],
+159,Viejo Año,['Maracaibo 15'],Gaitas Platinum,2.0,['Maracaibo 15'],
+160,Viejo Año,['Maracaibo 15'],Gaitas Platinum,2.0,['Maracaibo 15'],
+161,Quien Como Yo,['Los Morillo'],Gaitas Platinum,3.0,['Los Morillo'],
+162,Un Ojo Dimos,['Barrio Obrero'],Gaitas Platinum,4.0,['Barrio Obrero'],
+163,Amparito,['Maracaibo 15'],Gaitas Platinum,5.0,['Maracaibo 15'],
+164,Sin Rencor,['Gran Coquivacoa'],Gaitas Platinum,6.0,['Gran Coquivacoa'],
+165,Fiesta Decembrina,['Cardenales Del Exito'],Gaitas Platinum,7.0,['Cardenales Del Exito'],
+166,Virgen Guaquera,['Guaco'],Gaitas Platinum,8.0,['Guaco'],
+167,Trigueña Hermosa,['Cardenales Del Exito'],Gaitas Platinum,9.0,['Cardenales Del Exito'],
+168,Grey Zuliana,['Saladillo'],Gaitas Platinum,10.0,['Saladillo'],
+169,Son Mis Deseos,['Cardenales Del Exito'],Gaitas Platinum,11.0,['Cardenales Del Exito'],
+170,Nunca Es Tarde Para Amar,['Rincon Morales'],Gaitas Platinum,12.0,['Rincon Morales'],
+171,Orinoco,['Rincon Morales'],Gaitas Platinum,13.0,['Rincon Morales'],
+172,18 De Noviembre,['Maracaibo 15'],Gaitas Platinum,14.0,['Maracaibo 15'],
+173,Tamborera No. 9,['Gran Coquivacoa'],Gaitas Platinum,15.0,['Gran Coquivacoa'],
+174,Maracaibo Marginada,['Cardenales Del Exito'],Gaitas Platinum,16.0,['Cardenales Del Exito'],
+175,Que Bonito Amor,"['Manhy', ' Breiki']",Que Bonito Amor,1.0,"['Manhy', ' Breiki']",T3saz4dwotsvskzfl2j6cheis7a
+176,Stray,"['Naughty Professor', ' David Shaw']",Stray,1.0,"['Naughty Professor', ' David Shaw']",Tr2wo65payq7wp5xs62r5kdosbm
+177,Midnight Island,['Harrison Brome'],Fill Your Brains,2.0,['Harrison Brome'],Tlrmmstr3sbqivqh6gagfvyabiq
+178,D.R.E.A.M. (feat. Talib Kweli),"['Pharoahe Monch', ' Talib Kweli']",PTSD - Post Traumatic Stress Disorder,14.0,"['Pharoahe Monch', ' Talib Kweli']",Tvbjfztqzom63wvh7b7mvbfrshq
+179,Rage and Romance,['Bressie'],Rage and Romance,1.0,['Bressie'],Tgmaegttzjqywuotutkr7yjxicy
+180,Arsonist's Lullabye,['Hozier'],From Eden EP,3.0,['Hozier'],Tevnuvk262cr576xxapeozzs3ny
+181,Slalom (feat. PLC),"['Healy', ' Plc']",Slalom (feat. PLC),1.0,"['Healy', ' Plc']",T5kdm5wswr6rrrid43ccry6vtku
+182,State Line,['The Dip'],The Dip,4.0,['The Dip'],T4ouvznrlp2xo57twm4w4hq2tmm
+183,Should've Called,"['Jimi Tents', ' Jay Bel']",5 O'Clock Shadow,2.0,"['Jimi Tents', ' Jay Bel']",T6aou7xcgy2pgb5iyjan4wmf2ey
+184,"Stand Proud (feat. Shana Halligan, Tahir Panton & Keznamdi)","['Unified Highway', ' Shana Halligan', ' Keznamdi', ' Tahir Panton']",Unified Highway,5.0,"['Unified Highway', ' Shana Halligan', ' Keznamdi', ' Tahir Panton']",T7uvhzrnbye62yjl4k2au3urklu
+185,Green,['Eventide'],Swells EP,3.0,['Eventide'],Tmhkyanej2kbiyg3vnactnvehau
+186,People of The Sun (feat. Kyle (Slightly Stoopid)),['The Grouch & Eligh'],The Tortoise and The Crow,13.0,['The Grouch & Eligh'],T4mpjduclfoyabnvugro2zzmo3y
+187,"Stay Awake (feat. Mick Jenkins, Twista)","['Hurt Everybody', ' Mick Jenkins', ' Twista']",2K47,12.0,"['Hurt Everybody', ' Mick Jenkins', ' Twista']",
+188,Cash Machine,['DRAM'],Big Baby DRAM,6.0,['DRAM'],T6r6m6t4veflckway5523eitvxa
+189,"I Know, Didn't I (feat. Darondo)","['Slimkid 3', ' DJ Nu-Mark', ' Darondo']",Slimkid3 & DJ Nu-Mark,3.0,"['Slimkid 3', ' DJ Nu-Mark', ' Darondo']",Tmxwj2b4jholc3njjucl2snp7xy
+190,The Rules,"['Saigon', ' Statik Selektah']",All in a Day's Work,3.0,"['Saigon', ' Statik Selektah']",Tupl3xfe7frfh5a52qgkb3o65c4
+191,Rebel Yellow,['Cecil Otter'],Rebel Yellow,3.0,['Cecil Otter'],Trm33ihfiexj54llnjwryoujlia
+192,Suburbanites,['Dirtbag Dan'],The Dirtbag Dan LP,6.0,['Dirtbag Dan'],T3wcfjfbgqet5op34sfgwcjxtqq
+193,Habit - Original Mix,['The Movement'],Set Sail,6.0,['The Movement'],
+194,This Far,['Collective Efforts'],Freezing World,10.0,['Collective Efforts'],T4qmmrdoar6n7yrv6q3tfg3coq4
+195,Heart Is Full - Mark Ronson Remix,"['Miike Snow', ' Mark Ronson']",Heart Is Full (Mark Ronson Remix),1.0,"['Miike Snow', ' Mark Ronson']",Tba3p54skjxsiuajisxgxtnqmry
+196,Get Loud,['STS9'],The Universe Inside,3.0,['STS9'],Trfbkbbrvfv6mvhgbqzjgjklrei
+197,Jekyll and Hyde,"['Chris Webby', ' Stacey Michelle']",Jamo Neat,8.0,"['Chris Webby', ' Stacey Michelle']",Tnhkpjfkxmvk6qdtqjra4vga4ce
+198,Juicy - Remix,['The Notorious B.I.G.'],Juicy / Unbelievable,2.0,['The Notorious B.I.G.'],T5dodt5oeube5zyjfkdtjissevm
+199,Find Me,"['Khary', ' Lege Kale']",intern aquarium.EP,2.0,"['Khary', ' Lege Kale']",
+200,Find Me,"['Khary', ' Lege Kale']",intern aquarium.EP,2.0,"['Khary', ' Lege Kale']",
+201,Soul Surfing,['Kasket Club'],Soul Surfing,1.0,['Kasket Club'],Tebjuwvy5wyogop3w654rpyiiwy
+202,Remember Me? (feat. Chance The Rapper),"['KYLE', ' Chance the Rapper']",Smyle,10.0,"['KYLE', ' Chance the Rapper']",Td44ioasktvev3izo3tnbhiiqxy
+203,Raw,['Daye Jack'],Raw,1.0,['Daye Jack'],Tpc4omeq5rlp7ju2defw625skbu
+204,Need To Know (feat. Chance The Rapper),"['Macklemore & Ryan Lewis', ' Chance the Rapper']",This Unruly Mess I've Made,8.0,"['Macklemore & Ryan Lewis', ' Chance the Rapper']",Tpdiyg5ispn3d4vy4g77gwvioxy
+205,Maintain,['CYNE'],Running Water,5.0,['CYNE'],Tumtpbs4r4c7izryz3prfxmzoc4
+206,Epilogue: Long Jawn,['Shad'],Flying Colours,12.0,['Shad'],T5ektuwepm63v4gjrefmv6vk4vq
+207,Souvenir (feat. Hemlock Ernst),"['Milo', ' Hemlock Ernst']",So the Flies Don't Come,2.0,"['Milo', ' Hemlock Ernst']",
+208,Think About Me,['Soulcrate Music'],The Heartland Panic,9.0,['Soulcrate Music'],Tn3q37mxnrzsn7rujjzmqccq3pa
+209,Believe,['Mumford & Sons'],Wilder Mind,2.0,['Mumford & Sons'],Ttr6pgnaii4axdedfhjsqex7xwe
+210,A Murder of Crows,['Sum 41'],13 Voices,1.0,['Sum 41'],Tifr4kngfns7pmtm56qcj6b6i4u
+211,Goddamn I'm Dead Again,['Sum 41'],13 Voices,2.0,['Sum 41'],Ts75yhkaokd47sosx6bzoyv6b6q
+212,Fake My Own Death,['Sum 41'],13 Voices,3.0,['Sum 41'],Tl3wt232c3tgsd5clnvkaiytetq
+213,Breaking The Chain,['Sum 41'],13 Voices,4.0,['Sum 41'],Tirliwicu7saa7s3fafmliulmei
+214,There Will Be Blood,['Sum 41'],13 Voices,5.0,['Sum 41'],Tdf3dtspu7tfjcv7hdpuyujg5iy
+215,13 Voices,['Sum 41'],13 Voices,6.0,['Sum 41'],Tkuabxrrksrb4bsrmoy5cdw4yga
+216,War,['Sum 41'],13 Voices,7.0,['Sum 41'],T6erqqzbexzjcjwujltm5y6ezsu
+217,God Save Us All (Death to POP),['Sum 41'],13 Voices,8.0,['Sum 41'],Tsvcb7sqvtnrxhzls4eoyjzaoza
+218,The Fall And The Rise,['Sum 41'],13 Voices,9.0,['Sum 41'],T3ii7f6qzj7f326uxl6m6uu3pae
+219,Twisted By Design,['Sum 41'],13 Voices,10.0,['Sum 41'],Txd2sczlf2ljd5zh7fubbuommcy
+220,Joshua Tree,['King Fantastic'],The Great Man Theory,9.0,['King Fantastic'],Tvyratsskqvpompwzpcpct6hcwu
+221,Y'all Trippin',['Michael Christmas'],Is This Art?,1.0,['Michael Christmas'],Tzomq433pfc3q3hz44mwnf3q4pu
+222,Teakwood Betz,['Perpetual Groove'],Sweet Oblivious Antidote,5.0,['Perpetual Groove'],Thc4zttyks443yr4ewywdxzopcu
+223,Prizefight,"['Mike Mictlan', ' Lazerbeak']",Hand over Fist,13.0,"['Mike Mictlan', ' Lazerbeak']",
+224,Summertime,"['clipping.', ' King T']",CLPPNG,4.0,"['clipping.', ' King T']",Tjyvevmluv6it7eqq6r4w2p4tl4
+225,Where I'm From - LP Version/2005 Digital Remaster,['Digable Planets'],Beyond The Spectrum - The Creamy Spy Chronicles,13.0,['Digable Planets'],Tr77qzmxuy53xikhdwyiyxnde3a
+226,Jarmin in the Dark,['Young Monks'],Jarmin in the Dark,1.0,['Young Monks'],Tmopbrcn2z2g74umvn6vfy4axbq
+227,Spark One (feat. Ground Up),"['Aziz', ' Ground Up']",Spark One (feat. Ground Up) -Single,1.0,"['Aziz', ' Ground Up']",Tzvvdutmkv5cj3ohcnkyqqd6pxu
+228,Si Tu No Bailas Conmigo,['Juan Luis Guerra 4.40'],La Llave De Mi Corazon,6.0,['Juan Luis Guerra 4.40'],Tzop34rlatqkfgfqtoxazza7pta
+229,Jimme's Song,['Emanuel and the Fear'],Emanuel and the Fear,3.0,['Emanuel and the Fear'],Tkxma6tkahmrvr4c4exzxq6ww44
+230,On Point,['Old Man Saxon'],On Point,1.0,['Old Man Saxon'],Tld2qkbgtr6vzumaavz7sxzlbv4
+231,In My Mode,['King Leez'],Supreme Being,2.0,['King Leez'],T7aedd3zv5dwr7xiphk5piompsi
+232,City Livin' (feat. Mike Irving),['Aziz'],City Livin' (feat. Mike Irving),1.0,['Aziz'],T76oduyqkqltffcf37q55ho4cle
+233,Wheels Fall off (feat. Scarlet Parke),"['The Good Husbands', ' Scarlet Parke']",Wheels Fall off (feat. Scarlet Parke),1.0,"['The Good Husbands', ' Scarlet Parke']",Tbsd3hyrarm46cwabbydb52qyoy
+234,Ain't That Funkin' Kinda Hard on You? - We Ain't Neva Gonna Stop Remix,"['Funkadelic', ' Kendrick Lamar', ' Ice Cube']",Ain't That Funkin' Kinda Hard on You? (We Ain't Neva Gonna Stop Remix) [feat. Kendrick Lamar & Ice Cube] - Single,1.0,"['Funkadelic', ' Kendrick Lamar', ' Ice Cube']",
+235,Taking My Time (feat. Asher Roth & Camila Recchio),"['Elements of Music', ' Asher Roth', ' Camila Recchio']",Sunrain,6.0,"['Elements of Music', ' Asher Roth', ' Camila Recchio']",Tzrhpt5apk5lqaqnqzviahtcvry
+236,Swords Drawn,"['Celph Titled', ' Reef The Lost Cauze', ' The Esoteric', ' Planetary', ' Demoz', ' Chief Kamachi']",Ritual Of Battle,1.0,"['Celph Titled', ' Reef The Lost Cauze', ' The Esoteric', ' Planetary', ' Demoz', ' Chief Kamachi']",
+237,Totally Mutual Feeling,"['Lushlife', ' CSLSX']",Ritualize,1.0,"['Lushlife', ' CSLSX']",Tqellf7ucfqsdhxw6esz4a2ygpu
+238,Never Say No,['Robby Hunter Band'],Magic City Hippies,4.0,['Robby Hunter Band'],Tiovep6x2bnpuguezuu4gyqfmze
+239,Bailando - Spanish Version,"['Enrique Iglesias', ' Descemer Bueno', ' Gente De Zona']",SEX AND LOVE (Deluxe),3.0,"['Enrique Iglesias', ' Descemer Bueno', ' Gente De Zona']",Thjip4r7mcadfx25giaddxwpo2m
+240,Bailando - Spanish Version,"['Enrique Iglesias', ' Descemer Bueno', ' Gente De Zona']",SEX AND LOVE (Deluxe),3.0,"['Enrique Iglesias', ' Descemer Bueno', ' Gente De Zona']",Thjip4r7mcadfx25giaddxwpo2m
+241,Reborn,['Wax'],The Cookout Chronicles,1.0,['Wax'],Tftjfv4vzgimlxfenjlrgp6wchq
+242,Music and Liquor,['Wax'],Scrublife,6.0,['Wax'],Tv2ttfkxkvzqyqoytfcv7wg3zzi
+243,Outta My Mind,['Wax'],Continue,14.0,['Wax'],Tjauvy7agjdiywk4wyhrad64diq
+244,Rosana,['Wax'],Continue,6.0,['Wax'],Tmiwnpjhsxdwj6hh5s7vk5jj75a
+245,Colorblind (feat. Soulgem),"['Pasha', ' Soul Gem']",Colorblind (feat. Soulgem),1.0,"['Pasha', ' Soul Gem']",T2fzjtzt72rasu2sfxou32mlfrm
+246,3 Am,['The Heavy Pets'],Swim Out Past The Sun,1.0,['The Heavy Pets'],
+247,G R I L L $,['Keita Juma'],G R I L L $,1.0,['Keita Juma'],Tt6ketipv43yvkihfe7t62duxfa
+248,Quixoticelixer - Bonus Track,['Red Hot Chili Peppers'],Californication (Deluxe Version),18.0,['Red Hot Chili Peppers'],Thwcbr4kcbhpcigxwckxpzapiri
+249,"Love, Sex, And Fancy Things",['The Floozies'],Tell Your Mother,4.0,['The Floozies'],T3dfqbbyrdmefrenwn26hb5ks74
+250,That's That,['Herbal T'],Lo-Fi Blow Dry,4.0,['Herbal T'],Txpdmrli6coqagefvqm6hnwrmnu
+251,Stupefied,['Wax'],Continue,9.0,['Wax'],Tc3xt5hp2pgmp4vqznfuut33lwi
+252,Back Home (feat. Freddie Gibbs),"['Zeds Dead', ' Freddie Gibbs']",Back Home (feat. Freddie Gibbs),1.0,"['Zeds Dead', ' Freddie Gibbs']",T7d26637cqlrjle63lhfnq55esu
+253,O Eight,['Sap'],Self Employed,1.0,['Sap'],Tr5q24jm7fa433bcpql2oc3bq6q
+254,Charlie Brown (feat. Blu),['Scienze'],Charlie Brown (feat. Blu) - Single,1.0,['Scienze'],
+255,Tie-Dye,['Pasha'],Tie-Dye,1.0,['Pasha'],Tcuogovq3agoqbtzw67zlocg6ia
+256,Your Soul,['Hippie Sabotage'],Sunny - EP,2.0,['Hippie Sabotage'],
+257,Look Up,['Thai Mason'],Look Up,1.0,['Thai Mason'],Tmvz3ll4bfmfj4upy2ofodrwa6e
+258,Science Fiction,['Soja / Fleopard'],Summer parano,7.0,['Soja / Fleopard'],Ticshbmnh2a3yx2qp35a575uvmq
+259,Nothin' At All (feat. Skoolie 300),"['Chuuwee', ' Trizz', ' Skoolie 300']",Amerikkas Most Blunted,5.0,"['Chuuwee', ' Trizz', ' Skoolie 300']",Tytm5wu67kq4yl26yrn4f5rmdhy
+260,Move,['Saint Motel'],Move,1.0,['Saint Motel'],Txecz7ri26cfi44usq2sun3gwwe
+261,Low Lays the Devil,['The Veils'],Total Depravity,3.0,['The Veils'],Tgexuoj4wfv3mjrnyshxtlpsanu
+262,Molecules,['Aesop Rock'],The Impossible Kid,15.0,['Aesop Rock'],Tnoexdbk3th66l2fcd77e3tweom
+263,Water Tower,['Aesop Rock'],The Impossible Kid,14.0,['Aesop Rock'],Tw5nhfksnamhnxg7dcm7jgkxppy
+264,Dorks,['Aesop Rock'],The Impossible Kid,4.0,['Aesop Rock'],Trijr6dkpvavz6qpvfphvwvchuy
+265,Rings,['Aesop Rock'],The Impossible Kid,2.0,['Aesop Rock'],Tdiaonkyisvhkuftw7bntkwbmby
+266,Rio,['Orangutang'],EP,1.0,['Orangutang'],Tkiqicovarcvwx7hjm7ue3yjlqq
+267,Smoke 2 Much,['Jarv Dee'],The Red Eye Jedi,5.0,['Jarv Dee'],Tlfktg5heivnmutrgbx4bqhs23u
+268,Money,"['Nacho Picasso', ' Blue Sky Black Death']",Stoned & Dethroned,4.0,"['Nacho Picasso', ' Blue Sky Black Death']",Tyr6b2bc5ewow637h6yjw33fqku
+269,Student Life Ft. Daniel Ayo,['Femi Jaye'],Where's Femi,2.0,['Femi Jaye'],Tkle5jdqbwczz6dzittg3xe4kj4
+270,Chemistry,['The Knux'],Eleven,8.0,['The Knux'],Txuwdnungnu3jh6dqxjlfcypwym
+271,Follow The Sun,['Tjuvjakt'],Man Ska Vara Seriös,6.0,['Tjuvjakt'],Tzafhvpzp5f6wivs35zpv3hytzu
+272,Me And Jesus The Pimp In A '79 Granada Last Night,['The Coup'],Steal This Double Album,2.0,['The Coup'],
+273,When It Rains It Poors,['Twiddle'],Somewhere On the Mountain,5.0,['Twiddle'],Tpfssuf4kscxic3y4fc2pvc5634
+274,Family And Genus,['Shakey Graves'],And The War Came,6.0,['Shakey Graves'],Tsdk2f5e3j3x52qse6a7japyovm
+275,Slip Slide,['Donnie Trumpet & The Social Experiment'],Surf,2.0,['Donnie Trumpet & The Social Experiment'],
+276,"H20 (feat. Pharoahe Monch, Rakaa Iriscience, & Indjnous)","['Apollo Brown', ' Ras Kass', ' Pharoahe Monch', ' Rakaa Iriscience']",Blasphemy,3.0,"['Apollo Brown', ' Ras Kass', ' Pharoahe Monch', ' Rakaa Iriscience']",Tlz73ofwnqmf2dcbc3tzydztovy
+277,The Baker,['Portmanteau'],The Baker,5.0,['Portmanteau'],Teoerq4objix23da3sjkelvuuuy
+278,Don't Need The Money,['Portmanteau'],The Baker,1.0,['Portmanteau'],Tg4czxd5sqkodx3eiheiis5dga4
+279,Flipside - Audiotree Live Version,['Ripe'],Ripe on Audiotree Live,1.0,['Ripe'],Tk4wljfrt7gctg7zrduus47eaby
+280,Flipside - Audiotree Live Version,['Ripe'],Ripe on Audiotree Live,1.0,['Ripe'],Tk4wljfrt7gctg7zrduus47eaby
+281,Time (feat. Iva Kostic),"['Viva La Hop', ' Iva Kostic']",Fantasize,2.0,"['Viva La Hop', ' Iva Kostic']",Totma5rxyqzilinpfwdq54hbq3m
+282,Ladies Night,['Ripe'],Produce the Juice,3.0,['Ripe'],Tw4pqiwzanjm2jfoztlenqvtkfq
+283,Pasadena (feat. Vic Mensa),"['Donnie Trumpet', ' Vic Mensa']",Donnie Trumpet & Emilio Chestevez,1.0,"['Donnie Trumpet', ' Vic Mensa']",Tcsts7ch3cfucloc7v7fue23et4
+284,Take Time,['Awon'],Matte Black Soul,8.0,['Awon'],Tyxvizfuaim7yniefvsqneu43ia
+285,Good to Be Home (feat. Elan Wright),"['Sam Lachow', ' Elan Wright']",Good to Be Home (feat. Elan Wright),1.0,"['Sam Lachow', ' Elan Wright']",Ttjtthsd5omr53hnac7lfkfzbc4
+286,Helicopters,['Stop Light Observations'],Helicopters,1.0,['Stop Light Observations'],
+287,Curse the Weather,['Mo Lowda & the Humble'],Curse the Weather,3.0,['Mo Lowda & the Humble'],T7hwiybjhao7qpmfkakgepkd4v4
+288,Sirens,"['Sublime With Rome', ' Dirty Heads']",Sirens,1.0,"['Sublime With Rome', ' Dirty Heads']",Tzj7eywtuf6xnotcbpwlvdubpei
+289,Lord Willin',['Logic'],The Incredible True Story,10.0,['Logic'],Tc2qrboijt3eeeewqlvjtf4jw7y
+290,Party&bullshit,['Dela'],Atmosphere Airlines Vol.2,7.0,['Dela'],Ttsk3z2swdhnvsfa4ctbwc52gzi
+291,Goon Squad,['Ripe'],Hey Hello,3.0,['Ripe'],Tt26h7rclbqbh7uof4u6zgcnjfi
+292,Ongoing Thing,"['20syl', ' Oddisee']",Motifs,2.0,"['20syl', ' Oddisee']",Tu5ssjxr5hiacr4hmzk7fh2tdai
+293,Short Cut/detour,['Pretty Lights'],Passing by Behind Your Eyes,3.0,['Pretty Lights'],T2ivmjlymzjmx5e5bcjpxsdtb3m
+294,Mediator,['AlunaGeorge'],Mediator,1.0,['AlunaGeorge'],Tdhhnpqtialfya2wfvosgvzkqgy
+295,I Juswanna Chill,['Large Professor'],The LP,4.0,['Large Professor'],T6pkdhmj2wsg37ua6e55a4dsngy
+296,Weight (feat. Alyss),"['Mr. J. Medeiros', ' Alyss']",Milk and Eggs,5.0,"['Mr. J. Medeiros', ' Alyss']",T4qdwzgap63uxt2blbtdcjaz2ja
+297,Breadcrumbs,['Deca'],The Ocean,10.0,['Deca'],T4uhnmvcoqtkkiwbs5655qz6uke
+298,Silvertongue,['Young the Giant'],Silvertongue,1.0,['Young the Giant'],Trdjmnuagdacijmc5ob3tvbenji
+299,In My Sleep (feat. Tito Lopez & Chelsea Blare),"['Jon Connor', ' Tito Lopez', ' Chelsea Blare']",Unconscious State,11.0,"['Jon Connor', ' Tito Lopez', ' Chelsea Blare']",Trq2bcmhw6rd76in5ezizaxy5dm
+300,Home,['Cam Meekins'],Home,1.0,['Cam Meekins'],T25zo6qusqnxxqrzl5u5tol4fzq
+301,Doin' It Right,"['STS', ' RJD2']",STS x RJD2,1.0,"['STS', ' RJD2']",Tmmbzwa7rhkxacfdkten5g6oyu4
+302,THat Part - Black Hippy Remix,['ScHoolboy Q'],THat Part (Black Hippy Remix),1.0,['ScHoolboy Q'],T3q4gjcmymnbqqw73a3k5q66pzq
+303,Hello Stranger (feat. King Sadboy),"['Abhi The Nomad', ' King Sadboy']",Where Are My Friends?,1.0,"['Abhi The Nomad', ' King Sadboy']",T2irdvko7fgeawun3nqrnfflg64
+304,Snake Oil,['Typical Cats'],Typical Cats,6.0,['Typical Cats'],Txgeyj7keg3w4ft2wajrr2pqxrq
+305,Waybach,['Gucci Mane'],Waybach,1.0,['Gucci Mane'],Tnwacm5h3e5mmaqavn3yox4lqbq
+306,Wool,"['Earl Sweatshirt', ' Vince Staples']","I Don't Like Shit, I Don't Go Outside: An Album by Earl Sweatshirt",10.0,"['Earl Sweatshirt', ' Vince Staples']",Trfd6tenlj7tr4544rvrikhqoai
+307,Plotting,['Dizzy Wright'],Wisdom and Good Vibes,3.0,['Dizzy Wright'],Txylsvpxc3w3paqffnriamzmlc4
+308,Just Beneath the Surface,['Dawes'],Stories Don't End,1.0,['Dawes'],T3hqifcewd2i34o5uco5uxai7ga
+309,From a Window Seat - Live from Spotify NYC,['Dawes'],Spotify Sessions,9.0,['Dawes'],
+310,Don't Send Me Away - Live from Spotify NYC,['Dawes'],Spotify Sessions,2.0,['Dawes'],
+311,All We Got (feat. Kanye West & Chicago Children's Choir),"['Chance the Rapper', ' Kanye West', ' Chicago Childrens Choir']",Coloring Book,1.0,"['Chance the Rapper', ' Kanye West', ' Chicago Childrens Choir']",T5ol3katgrqts65hfo5rx7yto5a
+312,All Night (feat. Knox Fortune),"['Chance the Rapper', ' Knox Fortune']",Coloring Book,10.0,"['Chance the Rapper', ' Knox Fortune']",Th26ciwxivnerlvbgel4jgldrvq
+313,Juke Jam (feat. Justin Bieber & Towkio),"['Chance the Rapper', ' Justin Bieber', ' Towkio']",Coloring Book,9.0,"['Chance the Rapper', ' Justin Bieber', ' Towkio']",Tqpd4zf762xemcw5g7nu3hhcboi
+314,Take Hip Hop Back,"['Necro', ' Vinnie Paz', ' Immortal Technique']",Take Hip Hop Back,1.0,"['Necro', ' Vinnie Paz', ' Immortal Technique']",T6qc4stkyqip75lktzjs5otvvcq
+315,FromDaTomb,['Connor Gilbert'],Vol. 1,4.0,['Connor Gilbert'],Tvx6lehjldvanbmzin3h2qka6f4
+316,Life's a Bitch,['Connor Gilbert'],Vol. 1,3.0,['Connor Gilbert'],Thm52yae4wyx5hgs6kc4iqpjaai
+317,Save Dat One for Me,['White Panda'],Save Dat One for Me,1.0,['White Panda'],
+318,Vibration (Extended Version),['Alex Wiley'],Vibration (Extended Version),1.0,['Alex Wiley'],Txbjcqe5r7xgni4gfx4xtn6pji4
+319,Free Stress Test,['Professor Murder'],Professor Murder Rides the Subway,5.0,['Professor Murder'],T4qac3viaaemjmidfevbqkjh4je
+320,Free Stress Test,['Professor Murder'],Professor Murder Rides the Subway,5.0,['Professor Murder'],T4qac3viaaemjmidfevbqkjh4je
+321,1998,"['Chet Faker', ' Banks']",1998,1.0,"['Chet Faker', ' Banks']",Tgiu53rtkfsumpftgvwu7qmklku
+322,FML,['K.Flay'],FML,1.0,['K.Flay'],Tcgkwlhudu7cyuimdpdbrrp6ehm
+323,Gumbo,['Jay Rock'],90059,3.0,['Jay Rock'],Thaffsqg67ch63gr5zfzadtj4wy
+324,Dents,['Sapient'],"Eaters, Vol. 2: Light Tiger",2.0,['Sapient'],Tvblnfjzn2zbv5644pprhcfi35a
+325,Dapper,"['Domo Genesis', ' Anderson .Paak']",Genesis,9.0,"['Domo Genesis', ' Anderson .Paak']",T4cqfvmig4prucpsmxivtpz6ms4
+326,"Explore, Be Curious",['Cloudkicker'],Let Yourself Be Huge,2.0,['Cloudkicker'],Trxaj2lvxmmnoduyanjbfhor3ze
+327,Can't Forget,['Omar LinX'],Can't Forget,1.0,['Omar LinX'],Tyipsjhklbht45yqv6byvhaswna
+328,Gold,['INFIDELIX'],Gold,1.0,['INFIDELIX'],Tpswq26m6ff45mjnajdjrgkthdm
+329,Nothin' at All,['Common Market'],Tobacco Road,16.0,['Common Market'],Tsmunqulhfeyt6a33m3ltl2kgse
+330,Odyssey (feat. GRiZ),"['SunSquabi', ' GRiZ']",Odyssey (feat. GRiZ),1.0,"['SunSquabi', ' GRiZ']",Tgftljydkm25uhuwishgkomwbau
+331,Step,"['Vampire Weekend', ' Danny Brown', ' Heems', ' Despot']",Unbelievers,3.0,"['Vampire Weekend', ' Danny Brown', ' Heems', ' Despot']",Tu6t7jje36aok4xc7ibm7olg6ea
+332,Paper Trail$,['Joey Bada$$'],B4.DA.$$,3.0,['Joey Bada$$'],T3t5fh7soyi5nepn4nro6qa3bu4
+333,Enecs Eht No Kcab,['One Be Lo'],S.o.n.o.g.r.a.m.,3.0,['One Be Lo'],T6o2rnsofqxj4tmrlf2hwvuc3aq
+334,Hembro,['Hembro'],Hembro - Single,1.0,['Hembro'],Tkoeu74ym32y3li2z4sv2b2q4ki
+335,Brand New Moves,['Hey Violet'],Brand New Moves,1.0,['Hey Violet'],T2zah2os3pgneepiityk3ia2ya4
+336,Orange Soda (feat. Kidd Upstairs & Produced By Kidd Upstairs),"['X.O.', ' Kidd Upstairs', ' Produced By Kidd Upstairs']",Check Please Vol. 3,3.0,"['X.O.', ' Kidd Upstairs', ' Produced By Kidd Upstairs']",Tgxe73pff7ongspc2tjci4icsk4
+337,Chill Bill,"['Rob $tone', ' J. Davi$', ' Spooks']",Chill Bill,1.0,"['Rob $tone', ' J. Davi$', ' Spooks']",Tbxzv7vxqudmpmtqvapyqvndkfq
+338,Quik,['Oscar Blesson'],Watch The Boy Grow,1.0,['Oscar Blesson'],Txwyrmtzrtijf7gp35mk6g2hdl4
+339,You Stressin,['Bishop Nehru'],You Stressin - Single,1.0,['Bishop Nehru'],
+340,Where It All Comes From,['Cam Meekins'],"1993, Vol. 2",7.0,['Cam Meekins'],Th7woxzssd7h5nzh6cayubrdlce
+341,Music Saved My Life,['Futuristic'],The Rise,13.0,['Futuristic'],T4j72v2ya7atu2p4ay3373fr6q4
+342,Innermission,"['Logic', ' Lucy Rose']",The Incredible True Story,7.0,"['Logic', ' Lucy Rose']",Tlhf4badzq4iomarn24pq3pixn4
+343,Paradise,"['Logic', ' Jesse Boykins III']",The Incredible True Story,14.0,"['Logic', ' Jesse Boykins III']",Tafmk7xwz6ahpotunphswkbma54
+344,The Art of Peer Pressure,['Kendrick Lamar'],"good kid, m.A.A.d city (Deluxe)",4.0,['Kendrick Lamar'],Txxaonk3zlqfy4exdoxb2b6jzgu
+345,Rooftops (feat. Curren$y),"['Wiz Khalifa', ' Curren$y']",Rolling Papers,13.0,"['Wiz Khalifa', ' Curren$y']",Tu24nqi6a3yrdim7ausongdyqfe
+346,Caraluna,['Bacilos'],Grandes Exitos,3.0,['Bacilos'],Twitegbpj65gyyr42eaw253umoq
+347,3 Foot Tall,['Classified'],Classified,2.0,['Classified'],Tf2od4xxlwlaur4jifw2zfmrbee
+348,Sensei On the Block,"['Mos Def', ' Ski Beatz']",Sensei On the Block,1.0,"['Mos Def', ' Ski Beatz']",T4toldzyjgqbw4fdbcoat35qcwq
+349,The L.A. Song,['People Under The Stairs'],O.S.T.,16.0,['People Under The Stairs'],Tdcfppznxjn5m542icewccxcjoq
+350,44 Bars,['Logic'],Bobby Tarantino,9.0,['Logic'],T7rl3tmowmpbyabykljrmkrt6oy
+351,Tutorial,['Diego Lorenzini'],Pino,6.0,['Diego Lorenzini'],Tgwiqfz3usfaxcj35khnm7mqyfe
+352,Something Good Can Work,['Two Door Cinema Club'],Tourist History,6.0,['Two Door Cinema Club'],Tjvxudwimdlqej3lnub3bfzn6um
+353,Shot You Down (feat. Jay Rock & ScHoolboy Q),"['Isaiah Rashad', ' Jay Rock', ' ScHoolboy Q']",Cilvia Demo,14.0,"['Isaiah Rashad', ' Jay Rock', ' ScHoolboy Q']",T57gn5tg4h3oazjxr4hb4gfmq6y
+354,"In The Morning (feat. Stephen, Caleborate)","['Pell', ' Stephen', ' Caleborate']","In the Morning (feat. Stephen, Caleborate)",1.0,"['Pell', ' Stephen', ' Caleborate']",Tqmpwiwclziewbusjqyz4b3evce
+355,Jazz,['Mick Jenkins'],The Water[s],7.0,['Mick Jenkins'],Tiqyx6junvxq55nfqes5ex4x4oa
+356,Todavía,['Francisco Céspedes'],Todavía,6.0,['Francisco Céspedes'],Tyym5gdy4jxqlbkagqthjlm2owy
+357,Genghis Khan - Louis The Child Remix,"['Miike Snow', ' Louis The Child']",Genghis Khan (Remixes),1.0,"['Miike Snow', ' Louis The Child']",Tcurcxnvpqhs2pfmsdzuo4mhkeu
+358,Heathens,['Twenty One Pilots'],Heathens,1.0,['Twenty One Pilots'],Titklxnjdd75kpyl6apnjd7jiay
+359,Money in the Ghetto,['Too $hort'],The Essential Too $hort,13.0,['Too $hort'],Tet6htssruvoyt7adw7raodgila
+360,Money in the Ghetto,['Too $hort'],The Essential Too $hort,13.0,['Too $hort'],Tet6htssruvoyt7adw7raodgila
+361,Smoke It If You Got One,['Blended Babies'],5,3.0,['Blended Babies'],T7m3fzqbapfaflszk6mmvrwv4cu
+362,Follow,['Skiggy Rapz'],Satellites,2.0,['Skiggy Rapz'],T7g3digpaltswseplgfx7x3ken4
+363,Shilly Tilly,['Skiggy Rapz'],Satellites,5.0,['Skiggy Rapz'],Teklcyo4gyyzvse642yedvea26a
+364,Winning Vibes,['Skiggy Rapz'],Satellites,9.0,['Skiggy Rapz'],Txwhly2lhhqlamxp4gvngascrkq
+365,Put It On,['Skiggy Rapz'],Satellites,11.0,['Skiggy Rapz'],Tfkezltuvb5jmqjll24j2bdro3y
+366,Sharona,['Skiggy Rapz'],Satellites,12.0,['Skiggy Rapz'],Tkwtirvtct3java6pvxyimsjo7m
+367,Today (feat. Tienus),"['Skiggy Rapz', ' Tienus']",Bang To The Boogie EP,3.0,"['Skiggy Rapz', ' Tienus']",T42dxf2bowmmvibfosqpdoal234
+368,Runnin' Outta Sole (feat. Annemarie),"['Skiggy Rapz', ' Annemarie']",Bang To The Boogie EP,4.0,"['Skiggy Rapz', ' Annemarie']",Tqqqz3js67fzwnrsbcorkqgi6qy
+369,Hands Up,['Skiggy Rapz'],Bang To The Boogie EP,7.0,['Skiggy Rapz'],Tllkd3m7lwvpvkap43ffre7ipkm
+370,Runnin' Outta Sole - Inf Remix,"['Skiggy Rapz', ' Inf']",Bang To The Boogie EP,8.0,"['Skiggy Rapz', ' Inf']",Txhkeluade3hlmbh5jv4mnnna5u
+371,My Time Outside The Womb,['Titus Andronicus'],The Airing Of Grievances,2.0,['Titus Andronicus'],Tafle5nicin4pkyysujhntoy3im
+372,"Upon Viewing Brueghel's ""Landscape With the Fall of Icarus""",['Titus Andronicus'],The Airing Of Grievances,5.0,['Titus Andronicus'],Tr5ql5rqfexjdsaw6qhqdiux3yi
+373,Titus Andronicus,['Titus Andronicus'],The Airing Of Grievances,6.0,['Titus Andronicus'],Tjclajicezxasddrzkknhzt5ngy
+374,No Future Part I,['Titus Andronicus'],The Airing Of Grievances,7.0,['Titus Andronicus'],To3nhgw3wf6tfbtm5xujf3aayau
+375,No Future Part II : The Day After No Future,['Titus Andronicus'],The Airing Of Grievances,8.0,['Titus Andronicus'],Thsbfvvhvimaeablardv4ylzrr4
+376,A More Perfect Union,['Titus Andronicus'],The Monitor,1.0,['Titus Andronicus'],T4y7eqzzvnnw42qcjqn6j7l2n2i
+377,No Future Part Three: Escape from No Future,['Titus Andronicus'],The Monitor,3.0,['Titus Andronicus'],Tlonh5b2yu2qqdxfvk5yzpvxm6u
+378,Richard II or Extraordinary Popular Delusions and the Madness of Crowds (Responsible Hate Anthem),['Titus Andronicus'],The Monitor,4.0,['Titus Andronicus'],Tt6mk24szev4kmi6hc4xv3zl7nm
+379,A Pot In Which To Piss,['Titus Andronicus'],The Monitor,5.0,['Titus Andronicus'],Tds7dditkakh7s53depkjnurm4a
+380,To Old Friends and New,['Titus Andronicus'],The Monitor,8.0,['Titus Andronicus'],Tttvo75as7kqzhj53uaa6zpidoa
+381,The Battle of Hampton Roads,['Titus Andronicus'],The Monitor,10.0,['Titus Andronicus'],Tw5yd3nadxlg6ao6q7dskjxfxm4
+382,The Angry Hour,['Titus Andronicus'],The Most Lamentable Tragedy,1.0,['Titus Andronicus'],Tabpwe7ou4plqeopea4ddtk57ri
+383,No Future Part IV : No Future Triumphant,['Titus Andronicus'],The Most Lamentable Tragedy,2.0,['Titus Andronicus'],Thbw6b45n5a37woh6mox4gdu52e
+384,I Lost My Mind ( +@ ),['Titus Andronicus'],The Most Lamentable Tragedy,5.0,['Titus Andronicus'],Te6bzhob4uxzjyuwjxk6mo2wzwe
+385,The Magic Morning,['Titus Andronicus'],The Most Lamentable Tragedy,7.0,['Titus Andronicus'],Txy4xcxpc7k4wtvo2efmbtxva7i
+386,Mr. E. Mann,['Titus Andronicus'],The Most Lamentable Tragedy,10.0,['Titus Andronicus'],Tcxucomb4jwc3ke4cnldvexamme
+387,Fired Up,['Titus Andronicus'],The Most Lamentable Tragedy,11.0,['Titus Andronicus'],Thwki2sibzpb5ogudw46esfu2f4
+388,Dimed Out,['Titus Andronicus'],The Most Lamentable Tragedy,12.0,['Titus Andronicus'],Tp43notrpfwrbp5mg7uzomfpc3m
+389,More Perfect Union,['Titus Andronicus'],The Most Lamentable Tragedy,13.0,['Titus Andronicus'],Tdy3z5j7m2ffuah2dqjm3paleea
+390,Sun Salutation,['Titus Andronicus'],The Most Lamentable Tragedy,15.0,['Titus Andronicus'],Tjbjjozjzfstilh5proahbt2bom
+391,Funny Feeling,['Titus Andronicus'],The Most Lamentable Tragedy,17.0,['Titus Andronicus'],Tpok6kwevgs47b3avclnmeq5aai
+392,Fatal Flaw,['Titus Andronicus'],The Most Lamentable Tragedy,18.0,['Titus Andronicus'],Tvali67nlc2gw5xfyngfl2b5y2u
+393,Please,['Titus Andronicus'],The Most Lamentable Tragedy,19.0,['Titus Andronicus'],Tcxcpxpsomjes76tpnzixka6wuy
+394,Auld Lang Syne,['Titus Andronicus'],The Most Lamentable Tragedy,22.0,['Titus Andronicus'],Txexexe7xz7pwvovuufxkcicyti
+395,The Fall,['Titus Andronicus'],The Most Lamentable Tragedy,24.0,['Titus Andronicus'],Tinmdcd3kjfyex26qve2ut2a3nu
+396,The Hellion,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,1.0,['Judas Priest'],Twitmswfoavo4bqlgrzlbdnv6li
+397,Riding on the Wind,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,3.0,['Judas Priest'],Tbd5tki775mv7oqshd2a77q44lq
+398,Bloodstone,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,4.0,['Judas Priest'],Tpvvcg5ltqx76p6ihvrqrntofhu
+399,Pain and Pleasure,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,6.0,['Judas Priest'],T2xldax3df245hsf5rj4h6bws4i
+400,Pain and Pleasure,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,6.0,['Judas Priest'],T2xldax3df245hsf5rj4h6bws4i
+401,Screaming for Vengeance,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,7.0,['Judas Priest'],Ttpk4obi47hizas52hmbtmqoxmm
+402,You've Got Another Thing Coming,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,8.0,['Judas Priest'],Ty7f7zcqrbtwtll4nvgrw7tnysq
+403,Devil's Child,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,10.0,['Judas Priest'],Txz3bphshrwqmckhgzktrmkvkty
+404,You've Got Another Thing Coming - Live from the San Antonio Civic Center,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,13.0,['Judas Priest'],
+405,Prisoner of Your Eyes,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,16.0,['Judas Priest'],Tbzafol5lviezgeskidx4aad23e
+406,"Worlds to Run (featuring Milo, Anderson Paak)","['Busdriver', ' Milo', ' Anderson .Paak']",Thumbs,6.0,"['Busdriver', ' Milo', ' Anderson .Paak']",
+407,When I Was Done Dying,['Dan Deacon'],Gliss Riffer,3.0,['Dan Deacon'],T3oug7mnjbxn3ecgg45petyup4i
+408,Black Bear,['Black Bear'],The Cinnamon Phase,1.0,['Black Bear'],T5unnptu5otsmjwlhh3aofuvmm4
+409,Heaven and Hell - 2007 Remastered Version,['Black Sabbath'],The Dio Years [w/bonus track],3.0,['Black Sabbath'],
+410,Pure Imagination,['Richie Cunning'],1906,6.0,['Richie Cunning'],T7276ekyxkaw2sn5riijpk32xfm
+411,Memorias de la carretera,['Miguel Rios'],Las 100 mejores canciones del Rock español,14.0,['Miguel Rios'],
+412,Vamos Muy Bien,['Obus'],El Que Mas,3.0,['Obus'],T6th7wqgo7t3ayws2i7bnn2ocji
+413,Planet Caravan,['Black Sabbath'],Paranoid (Remastered),3.0,['Black Sabbath'],T63xdk74klezhkcpr4ehc7p5m5i
+414,Buscando en la basura,['La Fuga'],Negociando gasolina,1.0,['La Fuga'],T7wnhsvgd3a4s4usni4hqvpc36u
+415,Dull Times/The Moon,['Band of Horses'],Why Are You OK,1.0,['Band of Horses'],Tfuqr5fodkbnih45i4eqniv6rnu
+416,Solemn Oath,['Band of Horses'],Why Are You OK,2.0,['Band of Horses'],Ts4vpc5nhe77a2inbxwwwex7lfu
+417,Casual Party,['Band of Horses'],Why Are You OK,4.0,['Band of Horses'],Ttogkpji4sbhuxawsrenx5h4tgu
+418,In A Drawer,['Band of Horses'],Why Are You OK,5.0,['Band of Horses'],Tda72hb5m7t43muoqgdizem7yru
+419,Hold On Gimme A Sec,['Band of Horses'],Why Are You OK,6.0,['Band of Horses'],Traql3k2tamxshdjevngvxifox4
+420,Lying Under Oak,['Band of Horses'],Why Are You OK,7.0,['Band of Horses'],Tl2jy56c2z32ozwdyznvfqfc2hy
+421,Throw My Mess,['Band of Horses'],Why Are You OK,8.0,['Band of Horses'],Tdtr7lw5pf6dqtvkbx4ck5cznee
+422,"Whatever, Wherever",['Band of Horses'],Why Are You OK,9.0,['Band of Horses'],Tinvgkrxpurwxynx5vsfljstt2q
+423,Country Teen,['Band of Horses'],Why Are You OK,10.0,['Band of Horses'],Tg6bj3fg467r7ua3k33dmi66dfe
+424,Barrel House,['Band of Horses'],Why Are You OK,11.0,['Band of Horses'],Tg6bj3fg467r7ua3k33dmi66dfe
+425,Even Still,['Band of Horses'],Why Are You OK,12.0,['Band of Horses'],Tb7jrmblev6nuut3ctxtgc542di
+426,"Maneras de vivir - Rosendo, Barricada y Aurora Beltran directo 2008",['Barricada y Rosendo'],Otra noche sin dormir,18.0,['Barricada y Rosendo'],Tgi5vmkyc5letpsaud7k76y66ea
+427,Metralleta Joe,['Angel Stanich'],Metralleta Joe,1.0,['Angel Stanich'],T6fuyqt5mjorhnmg3af6nfqftqy
+428,Floating Vibes,['Surfer Blood'],Astro Coast,1.0,['Surfer Blood'],T3ue3z5dywzckynmsf3sn624p54
+429,This Year,['The Mountain Goats'],The Sunset Tree,3.0,['The Mountain Goats'],Tswclh4wj5bu7cwixhmri6lfopm
+430,Make Your Move,['Hieroglyphics'],Full Circle,4.0,['Hieroglyphics'],Tgzaqkjcc77yrbyxu7bdhxg3lse
+431,Chasing Pirates (feat. Raiche),"['araabMUZIK', ' Raiche']",Chasing Pirates (feat. Raiche),1.0,"['araabMUZIK', ' Raiche']",Tdfq44fqzrsutbgaeo3qy66yxc4
+432,Slip,['Elliot Moss'],Highspeeds,3.0,['Elliot Moss'],Twtkvdsnvvw476sl6pd5d722bya
+433,Dock Ellis (Remix) [feat. 49'ers],"['Blazo', ' 49ers']",Colors of Jazz,18.0,"['Blazo', ' 49ers']",T4te7nilf2n2h72lve54pdfyc7u
+434,LowRider,"['Abhi The Nomad', ' Oatmeal']",Singles,1.0,"['Abhi The Nomad', ' Oatmeal']",
+435,Heartsprings,['Heiruspecs'],A Tiger Dancing,13.0,['Heiruspecs'],Tm25iq3kkbalrs3ds3pfr65ja2m
+436,Regulate,"['Warren G', ' Nate Dogg']",Regulate… G Funk Era (Special Edition),1.0,"['Warren G', ' Nate Dogg']",Thkbmftup6vimy5vc7dz37bgknq
+437,The Funeral - Excision Remix,"['Band of Horses', ' Excision']",The Funeral (Excision Remix),1.0,"['Band of Horses', ' Excision']",Tyzx4xqy74vfmoh2y3ofiwowmda
+438,Opening the Gates,['Chequerboard'],The Unfolding,2.0,['Chequerboard'],T3al6boerk4tyumzck6hy7cvb6a
+439,Keep It Real,"['SoulChef', ' Hydroponikz']",Good Vibes,16.0,"['SoulChef', ' Hydroponikz']",Tcwrinjxsuudvy4kal7pda4xhgy
+440,Keep It Real,"['SoulChef', ' Hydroponikz']",Good Vibes,16.0,"['SoulChef', ' Hydroponikz']",Tcwrinjxsuudvy4kal7pda4xhgy
+441,Hello!,"['Explosions In The Sky', ' David Wingo']",Manglehorn (Original Motion Picture Soundtrack),9.0,"['Explosions In The Sky', ' David Wingo']",T3prbphhk5ih5i3juunh4uc24s4
+442,Phyllis,['Lettuce'],Crush,5.0,['Lettuce'],Tzbcdsaflk6gqsrkhn42eagmu2q
+443,Maggie May,['Hieroglyphics'],Full Circle,13.0,['Hieroglyphics'],Turnk3jkcvxnajnjbarkzq4d4tm
+444,You Never Knew - Domino Remix,['Hieroglyphics'],Over Time,1.0,['Hieroglyphics'],Tfjtl7jtsav6gmtzno575ksbcam
+445,What The Funk,['Hieroglyphics'],LIVE Full Circle Tour,16.0,['Hieroglyphics'],Taodnyh677xw5jql44q4ald52nu
+446,Livin' It Up,['Hieroglyphics'],The Kitchen,2.0,['Hieroglyphics'],Tkcc2latiivevjbar3rrzlcbyjm
+447,Slacks,['St. South'],Slacks,1.0,['St. South'],Tgtgrhjbnufucqqtelwa6pguxri
+448,Raincoats,['Derek Pope'],Sunken City Redux,2.0,['Derek Pope'],Ttohbnafbedj4hr2lhwbnkvw7s4
+449,All The Time,['Bahamas'],Bahamas is Afie,4.0,['Bahamas'],Th52qy77hr2aviwyovhc3nk3ycm
+450,Hostage,['Danrell x Småland'],Hostage,1.0,['Danrell x Småland'],Tyowaqqqsuwm7o24a3eiscjjeru
+451,Life Goes on (feat. GRiZ),"['Manic Focus', ' GRiZ']",Cerebral Eclipse,10.0,"['Manic Focus', ' GRiZ']",
+452,Kings of Summer,"['ayokay', ' Quinn XCII']",Kings of Summer,1.0,"['ayokay', ' Quinn XCII']",Tyj7yx6t7axe63if54tj2ahkgku
+453,Mistakes Like This,['Prelow'],Why Does Everything Happen So Much EP,2.0,['Prelow'],Tejtcg74lyjpdiw2qodgin5mrke
+454,Years From Now - Original Mix,['Modl'],Years From Now,1.0,['Modl'],Tkah5mvcoxpklhvaevv4jzngusi
+455,Snowship - Thomas Jack Remix,['Benjamin Francis Leftwich'],Snowship (Thomas Jack Remix),1.0,['Benjamin Francis Leftwich'],Tmhvkztzuyj3n4zkqeqjkbo735e
+456,Wave(s),['Lewis Del Mar'],EP,2.0,['Lewis Del Mar'],Tcub25rh5ontadq33oywpmovxgy
+457,Love One,['Common Market'],Common Market,10.0,['Common Market'],Tilg6s6xu7sqm3624nx7j4vz2ti
+458,Devil's Whisper,['Raury'],All We Need,6.0,['Raury'],Thfv6hiyshvowrzsvguwwyfb7pq
+459,The Girl from the Liquor Store,['Toussaint Morrison'],Toussaint Morrison Is Not My Boyfriend,2.0,['Toussaint Morrison'],
+460,I Just Wanna,['Jarv Dee'],Dopamine,7.0,['Jarv Dee'],Twd7gydmepfxjrjz2hgxkn5xzlm
+461,No soy una de esas - feat. Alejandro Sanz,"['Jesse & Joy', ' Alejandro Sanz']",No Soy Una De Esas (ft. Alejandro Sanz),1.0,"['Jesse & Joy', ' Alejandro Sanz']",
+462,I Took A Pill In Ibiza - Seeb Remix,['Mike Posner'],The Truth (Remixes),1.0,['Mike Posner'],
+463,Stressed Out,['Twenty One Pilots'],Blurryface,2.0,['Twenty One Pilots'],Tflgczyzw5lup64b4ksw7l4ccj4
+464,Mama Said,['Lukas Graham'],Lukas Graham,3.0,['Lukas Graham'],Telcjy4kpr4aosim5gp4s5pjrb4
+465,Chillance,['5 Majeur'],Variations,13.0,['5 Majeur'],T7gtk7fjog2rsf5bzbyzlvpp4py
+466,Make It a Better day,"['DJ DX', ' 2Pac']",Make It a better day,1.0,"['DJ DX', ' 2Pac']",
+467,Express Yourself,['N.W.A.'],Straight Outta Compton (2002 - Remaster),8.0,['N.W.A.'],
+468,Concealed the Outro,['K.A.A.N.'],Abstract Art,1.0,['K.A.A.N.'],
+469,On The Grind,"['Supersci', ' Chords']",Pinetrees On The Pavement,3.0,"['Supersci', ' Chords']",Tdtcwqm6mxu5bv6rwarhokyina4
+470,Finding God,"['P-Money', ' @Peace']",Gratitude,15.0,"['P-Money', ' @Peace']",T7wqwz5q3j7wqxsyqfuu4vdccvy
+471,Crystal Balling,['Jackie Onassis'],Holiday EP,3.0,['Jackie Onassis'],
+472,Don’t Know (feat. Mac Miller),"['Boaz', ' Mac Miller']",Intuition,5.0,"['Boaz', ' Mac Miller']",Tsa6sxn5u62st7uqvqododlh2y4
+473,Strugglin',['KNAAN'],The Dusty Foot Philosopher,11.0,['KNAAN'],Tgd26riqeafg6ab43x6nv3s6zae
+474,Bowl For Two,['The Expendables'],Gettin' Filthy,7.0,['The Expendables'],Tmysz55m7n62gjvjukvr4afjt7q
+475,"Mama, I'm Coming Home",['Ozzy Osbourne'],No More Tears (Bonus Track Version),3.0,['Ozzy Osbourne'],
+476,It Gets Better,['Madchild'],Lawn Mower Man,6.0,['Madchild'],Tgq253l7lwm46qfsoj3itecx6ju
+477,Just a Dood,['Josh Martinez'],Midriff Music,8.0,['Josh Martinez'],Tu4itri7ko7cmp3tojhekktrl3e
+478,Sober,['Childish Gambino'],Kauai,1.0,['Childish Gambino'],Tunwkrpj7p7eeaspyxxxyu6jyha
+479,Retro [ROUGH],['Childish Gambino'],Kauai,3.0,['Childish Gambino'],Ttblktv2ycc5ddlu52meifzoysi
+480,Retro [ROUGH],['Childish Gambino'],Kauai,3.0,['Childish Gambino'],Ttblktv2ycc5ddlu52meifzoysi
+481,Don't Sweat The Technique,['Eric B. & Rakim'],Don't Sweat The Technique,11.0,['Eric B. & Rakim'],Tbtpjfruwu2sodvksstjkx26qzq
+482,Jungle,['Andre Nickatina'],Midnight Machine Gun Rhymes And Alibis,2.0,['Andre Nickatina'],Twdhpyu7kp3qljarb6bbpki45u4
+483,Good Feelin,"['Capitol 1212', ' Mike G (Jungle Brothers )', ' Dizzy Dustin', ' MCM & Cadence']",Good Feelin,1.0,"['Capitol 1212', ' Mike G (Jungle Brothers )', ' Dizzy Dustin', ' MCM & Cadence']",Tmrp72n23xjidvdqxcdk7cchd3y
+484,The Creator,['Pete Rock & C.L. Smooth'],All Souled Out,4.0,['Pete Rock & C.L. Smooth'],Tt7eeikz7gfwoxnf4nwz5l5rhw4
+485,Be (Intro),['Common'],Be,1.0,['Common'],Tnhlwp4oolwyqinuxav4ulai53a
+486,Mockingbird,['Eminem'],Curtain Call (Deluxe),12.0,['Eminem'],Tnlctdlnre4vpmjodoqm2foldja
+487,The Loser Wins,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",7.0,['Atmosphere'],Ty5rtewizrtf2qxhcrvrvp2abq4
+488,When the Children Cry - Original Studio Demo,['White Lion'],'80s Metal Essentials,24.0,['White Lion'],T7c7zzcaluoaadptskdpy6befja
+489,Planet Caravan - Remastered Version,['Black Sabbath'],Complete Studio Albums 1970-1978,3.0,['Black Sabbath'],Ty4dqziqdan4by4okcvsjf46isy
+490,Karate,['Kennedy'],Special K,4.0,['Kennedy'],Td4pnym6wpp722sppzh45qko5yu
+491,Wreckonize - Remix Vocal,['Smif-N-Wessun'],Wreckonize bw Sound Bwoy Bureill,1.0,['Smif-N-Wessun'],Ti5eeqi7nwh6j53hfslfatuoobm
+492,Spotlight,"['Machine Gun Kelly', ' Lzzy Hale']",General Admission,1.0,"['Machine Gun Kelly', ' Lzzy Hale']",Tkyf3hx2xgpm7khzptvzvomiupe
+493,Inspector Norse,['Todd Terje'],It's the Arps,1.0,['Todd Terje'],
+494,Don't Worry Be Happy,['Bobby McFerrin'],The Best Of Bobby McFerrin,1.0,['Bobby McFerrin'],Twjlnuyeorqsumne2gsnm7fxz4i
+495,Jamflowman,['Twiddle'],Natural Evolution of Consciousness,8.0,['Twiddle'],Tdqwvzjfbvluaopzcl3oa6ixm5m
+496,We Ain't Them,['D.Glover'],Royal,17.0,['D.Glover'],
+497,Bills,['Ground Up'],The Get Down,1.0,['Ground Up'],T3oklw6opryezuvkw5plv2mas4a
+498,God of Joy,['Anthm'],Joy & Pain,2.0,['Anthm'],Tqdn4en27go4fmj4dmtg4qgxqou
+499,"Bout a Dolla (feat. Chuck Inglish, Chance the Rapper, Chip tha Ripper & Twista)","['The OMys', ' Blended Babies', ' Chuck Inglish', ' Chance the Rapper', ' Chip Tha Ripper', ' Twista']","Bout a Dolla (feat. Chuck Inglish, Chance the Rapper, Chip tha Ripper & Twista)",1.0,"['The OMys', ' Blended Babies', ' Chuck Inglish', ' Chance the Rapper', ' Chip Tha Ripper', ' Twista']",
+500,Change My Luck (feat. Toothpick),['Ordinary Peoples'],Cause and Effect,12.0,['Ordinary Peoples'],Tuhu2ask4ks4k22276sdy7rtn6i
+501,Back Home,['Shawn Anthony'],Beautiful Life,1.0,['Shawn Anthony'],Tdaxsc7zmwkaltx2vvokirliuqu
+502,Around The Area,['Pasha'],Around The Area,1.0,['Pasha'],Tkxgi3obnqbjrvgy6klx6axdnqe
+503,On The Lookout (Featuring Wild Child & Kombo),['Kan Kick'],From Artz Unknown,17.0,['Kan Kick'],Tjkdy545bi3mxd37cvwgeainshm
+504,Sangria - (bonus track),['REMI'],Raw x Infinity,13.0,['REMI'],
+505,Tilt Mode (feat. Gibbz),['Exmag'],Proportions,9.0,['Exmag'],T35dv5swdfotmvcffxc2jddh654
+506,Alone,['Judas Priest'],Nostradamus,16.0,['Judas Priest'],Toclhatv4xe7sdpigsn7vpnto5e
+507,Uprising,['Muse'],The Resistance,1.0,['Muse'],Tifpxiwmlnf3o7gswgrg6vehoja
+508,Sex on Fire,['Kings of Leon'],Only By The Night,3.0,['Kings of Leon'],Tivo4fxggkpe4y6m6t6dpkwp5yi
+509,Dream On,['Aerosmith'],The Essential Aerosmith,2.0,['Aerosmith'],Tdukw727uxiluyfrega37ikbbym
+510,It's My Life,['Bon Jovi'],Bon Jovi Greatest Hits - The Ultimate Collection (Int'l Deluxe Package),3.0,['Bon Jovi'],
+511,Sultans Of Swing,['Dire Straits'],The Best of Dire Straits & Mark Knopfler - Private Investigations (Limited Edition),2.0,['Dire Straits'],
+512,Paradise City,['Guns N Roses'],Appetite For Destruction,6.0,['Guns N Roses'],Tfuhtukozbpryulccshtn6qv4ei
+513,Nothing Else Matters,['Metallica'],Metallica,8.0,['Metallica'],Txdzb4kds7icja4e3npnpvkpw3m
+514,Knockin' On Heaven's Door,['Guns N Roses'],Use Your Illusion II (Explicit Version),4.0,['Guns N Roses'],Tgljr6yqx44cqedsrbvdd25qfzu
+515,Monster,['Skillet'],Awake,2.0,['Skillet'],Ts3fb5xwvqm4hrm5exbexsjnmmq
+516,Sterolife,['Plusmacher'],Sterolife,1.0,['Plusmacher'],Tftgz3remcf2zfmizrmgy7zxreq
+517,Bonfire Sessions,['King Fantastic'],Finger Snaps And Gun Claps,5.0,['King Fantastic'],Tzyctrat3wj65l3s3hajp5exxfy
+518,Fabrics,['Felly'],Waking up to Sirens,2.0,['Felly'],Tqpg3ndowh2uea2btuilhpwdgdm
+519,Baby Blue (feat. Chance the Rapper),"['Action Bronson', ' Chance the Rapper']",Mr. Wonderful,9.0,"['Action Bronson', ' Chance the Rapper']",Tqgrkdotkjmrj4iaauup3db33me
+520,Baby Blue (feat. Chance the Rapper),"['Action Bronson', ' Chance the Rapper']",Mr. Wonderful,9.0,"['Action Bronson', ' Chance the Rapper']",Tqgrkdotkjmrj4iaauup3db33me
+521,Steppin' On My Rhyme (feat. Tienus),"['Skiggy Rapz', ' Tienus']",Bang To The Boogie EP,6.0,"['Skiggy Rapz', ' Tienus']",Txiks6krlxvrthih7bsi7had3iu
+522,WWW feat. Count Justice,['STS'],The Illustrious,6.0,['STS'],T4tkjzhbz4dzirtcfjy4tnm7axa
+523,Growing Pains (Do It Again) Rmx,"['Disturbing Tha Peace', ' Lil Fate', ' Shawnna', ' Ludacris', ' Scarface', ' Keon Bryce', ' Trak 53', ' Gorilla Tek']",Golden Grain,2.0,"['Disturbing Tha Peace', ' Lil Fate', ' Shawnna', ' Ludacris', ' Scarface', ' Keon Bryce', ' Trak 53', ' Gorilla Tek']",Tq2zrkej4mcu2a5mya4dbiy2kuu
+524,Gotta Understand,['Jurassic 5'],Feedback,4.0,['Jurassic 5'],Tptu5fpljopztdmhhkzrss2vc2m
+525,It Ain't Hard To Tell,['Elzhi'],Elmatic,9.0,['Elzhi'],Tl53rdbzovqtr3ccho4jttc7lru
+526,Road To Zion,"['Damian Marley', ' Nas']",Welcome to Jamrock,11.0,"['Damian Marley', ' Nas']",Tqmykyxuwtz4vxwf6ybb2ux5224
+527,Waiting For Love,['Avicii'],Waiting For Love,1.0,['Avicii'],Tixay6jii7loveh5v4vuyvxhd3e
+528,Seve - Radio Edit,['Tez Cadey'],Seve (Radio Edit),1.0,['Tez Cadey'],Tss4etykiqpkhckus7jcqro77ly
+529,Love Is All I Got,"['Feed Me', ' Crystal Fighters']",Love Is All I Got,1.0,"['Feed Me', ' Crystal Fighters']",Tkawknod63h4fu6wjmcx62fxlue
+530,Are You With Me - Radio Edit,['Lost Frequencies'],Are You With Me,1.0,['Lost Frequencies'],Td34u6llfubyockcv2uoidlyahm
+531,Stole the Show,"['Kygo', ' Parson James']",Stole the Show,1.0,"['Kygo', ' Parson James']",Titxurar3dluy73knokhyv266a4
+532,Under and Over It,['Five Finger Death Punch'],American Capitalist,2.0,['Five Finger Death Punch'],Tr3us7yrckwpkmzivljhynl7jye
+533,First Day Of My Life,['Bright Eyes'],"I'm Wide Awake, It's Morning",6.0,['Bright Eyes'],T6amkrrjohhsuifcnuzonngosgq
+534,Left Hand Free,['alt-J'],This Is All Yours,5.0,['alt-J'],T4xeyzctozvzyqxcmgg4zxwgdlu
+535,Forest Whitiker,['Brother Ali'],Shadows On The Sun,10.0,['Brother Ali'],Tuvxtifuqmvyxt57fbn7sgm7rra
+536,Stars Shine Brightest (In The Darkest Of Night) F. Rick Warren,['Cunninlynguists'],Oneirology,9.0,['Cunninlynguists'],T6ywhniowpipiuec5y3cl6wivxi
+537,Tommy Chong,['Blue Scholars'],Cinemetropolis,13.0,['Blue Scholars'],
+538,3030,"['Deltron 3030', ' Del The Funky Homosapien', ' Dan The Automator', ' Kid Koala']",Deltron 3030,2.0,"['Deltron 3030', ' Del The Funky Homosapien', ' Dan The Automator', ' Kid Koala']",Tbtsaiztifnkfa6ykeipf7mzm64
+539,Ride,['Twenty One Pilots'],Blurryface,3.0,['Twenty One Pilots'],Tiq3a25akqe454uql7rzmdxon7y
+540,"616 Rewind [Deluxe Edition] (feat. Tonedeff, Sankofa, Kashal Tee & Celph Titled)","['Cunninlynguists', ' Tonedeff', ' Sankofa', ' Kashal-Tee', ' Celph Titled']",Will Rap for Food [Deluxe Edition],18.0,"['Cunninlynguists', ' Tonedeff', ' Sankofa', ' Kashal-Tee', ' Celph Titled']",T3llpx4djn4djxhiuyex65xznei
+541,The Woman with the Tattooed Hands,['Atmosphere'],Lucy Ford: The Atmosphere EP's,14.0,['Atmosphere'],Tddicb6ktvtyu44v6dhln7ktiiq
+542,Me,['Atmosphere'],"When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition]",11.0,['Atmosphere'],
+543,None Shall Pass,['Aesop Rock'],None Shall Pass,2.0,['Aesop Rock'],Tx6fhsbohyef2robvu6eojln5li
+544,The Best Day,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",4.0,['Atmosphere'],Tu6civg7n7263iqkj6d34iovcre
+545,Glory (From the Motion Picture Selma),"['Common', ' John Legend']",Glory (From the Motion Picture Selma),1.0,"['Common', ' John Legend']",Tc2erkdo6wqs5ecdjdoajxoncom
+546,Thieves In The Night,['Black Star'],Mos Def & Talib Kweli Are Black Star,12.0,['Black Star'],Tqmdultj3eeopczi6mvumnpv7pi
+547,Definition,['Black Star'],Mos Def & Talib Kweli Are Black Star,3.0,['Black Star'],Trfknqvhcqipiihmx4osxcfbrym
+548,Universal Mind Control (UMC) - With Intro,['Common'],Universal Mind Control,1.0,['Common'],Te6y34m5rsvcrpneqmoztaxpomi
+549,Life's a Bitch,"['Nas', ' AZ', ' Olu Dara']",Illmatic,3.0,"['Nas', ' AZ', ' Olu Dara']",Tlr2p2oka2zgwvveyshyj3du7w4
+550,"Il est cinq heures, Paris s'éveille",['Jacques Dutronc'],En Vogue,10.0,['Jacques Dutronc'],Tltfgher5l6l5plyl37zzy2dyxi
+551,The Seed (2.0),"['The Roots', ' Cody Chesnutt']",Phrenology,8.0,"['The Roots', ' Cody Chesnutt']",Tfic3cc72qhk43v3snj7s7aol4u
+552,Sunshine,['Atmosphere'],Sad Clown Bad Summer Number 9,1.0,['Atmosphere'],Tkvfgz65jzka2azi7yr3qx4huvm
+553,Positive Balance (feat. Big Zoo),"['Immortal Technique', ' Big Zoo']",Revolutionary Vol. 1,3.0,"['Immortal Technique', ' Big Zoo']",
+554,Greenlight: Now Begin,['Blackalicious'],Blazing Arrow,5.0,['Blackalicious'],Tsdffa3p4hoics5fmvw2yofg74y
+555,Fantastic Man,['William Onyeabor'],World Psychedelic Classics 5: Who Is William Onyeabor?,9.0,['William Onyeabor'],Thde6e2ntaoneiyjsls43whxw7a
+556,Back Then,['Gunnar Bjerk'],Back Then,1.0,['Gunnar Bjerk'],T47567kgsdkduv62luwkhzsc22u
+557,Chase The Devil,['Max Romeo'],The Max Romeo Catalogue Chapter 10 Verse 145-160,6.0,['Max Romeo'],
+558,Merry Go Round,['The Equatics'],Doin It!!!!,3.0,['The Equatics'],T27j642su3rzafdnxknmcxaini4
+559,Return Of The Mack,['Mark Morrison'],Return Of The Mack,6.0,['Mark Morrison'],Tbcecxvh2kx3skpj4tow6oeyu3e
+560,Return Of The Mack,['Mark Morrison'],Return Of The Mack,6.0,['Mark Morrison'],Tbcecxvh2kx3skpj4tow6oeyu3e
+561,Chase,['Giorgio Moroder'],Midnight Express,1.0,['Giorgio Moroder'],Tqjabx2p7rknjbap5nnyzbetr4e
+562,Bad Mother F*cker,"['Machine Gun Kelly', ' Kid Rock']",General Admission,5.0,"['Machine Gun Kelly', ' Kid Rock']",
+563,Oz.,['Machine Gun Kelly'],General Admission,7.0,['Machine Gun Kelly'],Ttg3ya3yam3zj4nzka37plirz7m
+564,Everyday,['Machine Gun Kelly'],General Admission,8.0,['Machine Gun Kelly'],Tyiy6fommjtw5rj6273ux4jeisa
+565,Story Of The Stairs,['Machine Gun Kelly'],General Admission,10.0,['Machine Gun Kelly'],Ttks3nkihg5baphdtj6hynh5ewi
+566,Merry Go Round,['Machine Gun Kelly'],General Admission,11.0,['Machine Gun Kelly'],Tfufxv2xdsyiqnjdrp2nwjlltmi
+567,A Little More,"['Machine Gun Kelly', ' Victoria Monet']",General Admission,12.0,"['Machine Gun Kelly', ' Victoria Monet']",Tfkgdlzhovhbgyx7z5xxblnx56e
+568,Make It Happen,['Machine Gun Kelly'],General Admission,14.0,['Machine Gun Kelly'],Trqemjmtwgc5et7rh2i2jdv5mu4
+569,Round Here,['Machine Gun Kelly'],General Admission,15.0,['Machine Gun Kelly'],T7zzqye6ayzlhz3zo2yjzmbymo4
+570,Gone,"['Machine Gun Kelly', ' Leroy Sanchez']",General Admission,9.0,"['Machine Gun Kelly', ' Leroy Sanchez']",Tyiy6fommjtw5rj6273ux4jeisa
+571,Gangsta's Paradise (feat. L.V.),"['Coolio', ' L.V.']",Gangsta's Paradise (US Release),3.0,"['Coolio', ' L.V.']",
+572,Mrs. Jones,['Coolio'],Gangsta's Paradise (US Release),13.0,['Coolio'],
+573,Renegades,['X Ambassadors'],VHS,2.0,['X Ambassadors'],Ts2mxkmmnz25v5ihl7zgpv3fkt4
+574,Spotlight,"['Machine Gun Kelly', ' Lzzy Hale']",General Admission,1.0,"['Machine Gun Kelly', ' Lzzy Hale']",Tkyf3hx2xgpm7khzptvzvomiupe
+575,Leaving the Past,['Immortal Technique'],Revolutionary Vol. 2,15.0,['Immortal Technique'],T7iuzmhu4vdqv7wlkvi72b6hcwa
+576,Eye of the Tiger,['Great White'],'80s Metal Essentials,1.0,['Great White'],Tbfmjwbyq5fjzxbwphwvntntydq
+577,Cherry Pie - Re-Recorded,['Warrant'],'80s Metal Essentials,2.0,['Warrant'],Tyqyhrcutw6aaeyy4lrticewx6a
+578,Smooth up in Ya - Re-Recorded,['Bulletboys'],'80s Metal Essentials,3.0,['Bulletboys'],Thz2bhcsukmom47twecomosvc2y
+579,Every Rose Has Its Thorn,['Bret Michaels'],'80s Metal Essentials,4.0,['Bret Michaels'],Tcv3gfd76qgsymsfnjdx747xmr4
+580,Once Bitten Twice Shy - Re-Recorded,['Great White'],'80s Metal Essentials,5.0,['Great White'],Tz4igsqu2bmc3tua3r757hcjymm
+581,When the Good Die Young,['Dokken'],'80s Metal Essentials,6.0,['Dokken'],To6ozv2yqz4js5duzblty6roheq
+582,Overkill - Re-Recorded,['Motörhead'],'80s Metal Essentials,7.0,['Motörhead'],Ti5tkbeznndm6xkfc6odfgy7viu
+583,New Thing,['Enuff ZNuff'],'80s Metal Essentials,8.0,['Enuff ZNuff'],To5gjgx6w26upfv4girav3ffmsq
+584,Rip & Tear - Re-Recorded,['L.A. Guns'],'80s Metal Essentials,9.0,['L.A. Guns'],Tolelsm25q4qdrdhum7nbdi7hpu
+585,Cum on Feel the Noize - Re-Recorded,['Quiet Riot'],'80s Metal Essentials,10.0,['Quiet Riot'],Tuglrrbtr574g6bqpgh2jd5fwly
+586,Wait - Original Studio Demo,['White Lion'],'80s Metal Essentials,11.0,['White Lion'],Tkb5yj6skioxdppqyaoyey3jud4
+587,Save Yourself,"['Michael Schenker', ' Robin McAuley']",'80s Metal Essentials,12.0,"['Michael Schenker', ' Robin McAuley']",Tn5hcuk4dkf533fkzy6bc6stg5e
+588,Still Lovin' You,"['Steve Whitman', ' George Lynch']",'80s Metal Essentials,13.0,"['Steve Whitman', ' George Lynch']",Tygoxhcqmjjat3qwdygsmhxtk7i
+589,Cherry Bomb,"['Cherie Currie', ' Marky Ramone', ' Wayne Kramer']",'80s Metal Essentials,14.0,"['Cherie Currie', ' Marky Ramone', ' Wayne Kramer']",Ti56qgskcocmekilohodrao7heq
+590,Feel the Shake - Re-Recorded,['Jetboy'],'80s Metal Essentials,15.0,['Jetboy'],T72xgtqq4t2pzo7wlfepro2cqpa
+591,Save Your Love - Re-Recorded,['Great White'],'80s Metal Essentials,16.0,['Great White'],Tq2hgl3f7yh6pjsvoscqemnrb3u
+592,Round & Round,['Stephen Pearcy'],'80s Metal Essentials,18.0,['Stephen Pearcy'],Tp4v4pgw6imfrvqixajb2rstbga
+593,Finding My Way,"['Sebastian Bach', ' Michael Schenker']",'80s Metal Essentials,19.0,"['Sebastian Bach', ' Michael Schenker']",T6jaumtqa2lfnhi3lzzzhs4qug4
+594,Killing Time,"['Axl Rose', ' Izzy Stradlin']",'80s Metal Essentials,20.0,"['Axl Rose', ' Izzy Stradlin']",Tymagkajmplpmp2agnpujyzshse
+595,The Ballad of Jayne - Re-Recorded,['L.A. Guns'],'80s Metal Essentials,21.0,['L.A. Guns'],Tkg47e6cr2mxymufikob3lkhsem
+596,Fly High Michelle,['Enuff ZNuff'],'80s Metal Essentials,22.0,['Enuff ZNuff'],Tvfqkgg3rhunellipbjdnjjhfpe
+597,Stone Cold,"['Joe Lynn Turner', ' Vivian Campbell']",'80s Metal Essentials,25.0,"['Joe Lynn Turner', ' Vivian Campbell']",Twczj3d6mqjufixy77dwu5ietye
+598,Something to Believe In,['Bret Michaels'],'80s Metal Essentials,26.0,['Bret Michaels'],Tcqd4aylbo6chn6fpqifr56ojru
+599,Leather Boyz with Electric Toyz - Re-Recorded,['Pretty Boy Floyd'],'80s Metal Essentials,28.0,['Pretty Boy Floyd'],Tlajwfc53ykzbvfzfupie4zsio4
+600,Leather Boyz with Electric Toyz - Re-Recorded,['Pretty Boy Floyd'],'80s Metal Essentials,28.0,['Pretty Boy Floyd'],Tlajwfc53ykzbvfzfupie4zsio4
+601,Someone Like You - Re-Recorded,['Bang Tango'],'80s Metal Essentials,29.0,['Bang Tango'],Tavjuz4hk7p63zyu66o2kzmul64
+602,See You Again (feat. Charlie Puth),"['Wiz Khalifa', ' Charlie Puth']",See You Again (feat. Charlie Puth),1.0,"['Wiz Khalifa', ' Charlie Puth']",Tckf4y76j77a7gpbnni2m3wrzqa
+603,Show Me How to Live,['Audioslave'],Audioslave,2.0,['Audioslave'],Tabda5tzj2oc2swipsw2znml3sq
+604,The Fighter (Gym Class Heroes Feat. Ryan Tedder Tribute),['The Dream Team'],The Fighter (Gym Class Heroes feat. Ryan Tedder Tribute),1.0,['The Dream Team'],
+605,Loneliness,['Flobots'],The Circle In The Square,10.0,['Flobots'],Tri5jsa3ojxrqg53brygqzeuxym
+606,Duel Of The Iron Mic,"['GZA', ' Masta Killa', ' Dreddy Kruger', ' Inspectah Deck', ' Ol Dirty Bastard']",Liquid Swords,2.0,"['GZA', ' Masta Killa', ' Dreddy Kruger', ' Inspectah Deck', ' Ol Dirty Bastard']",Tt23mddsmm2q4xkhba6vxkzxm7q
+607,Living In The World Today,['GZA'],Liquid Swords,3.0,['GZA'],Tnaudorprendwdtmjjp6lrfosam
+608,Gold,['GZA'],Liquid Swords,4.0,['GZA'],Tdr3mtvbkxmukf7vxeifcwdkcoe
+609,Cold World,"['GZA', ' Inspectah Deck']",Liquid Swords,5.0,"['GZA', ' Inspectah Deck']",Te6pee7uvthff4tozq2dpvth3zy
+610,Labels,['GZA'],Liquid Swords,6.0,['GZA'],Tr7ugbp3m5xccwp7b7nuz3xi74m
+611,4th Chamber,"['GZA', ' RZA', ' Ghostface Killah', ' Killah Priest']",Liquid Swords,7.0,"['GZA', ' RZA', ' Ghostface Killah', ' Killah Priest']",Trz477svyjn6ku7xvca2piv5wze
+612,Shadowboxin',"['GZA', ' Method Man']",Liquid Swords,8.0,"['GZA', ' Method Man']",T72qsx37lmy3k6ymjdh225mgl5a
+613,Hell's Wind Staff / Killah Hills 10304,['GZA'],Liquid Swords,9.0,['GZA'],Twzod52yl2znetgn52k4k23lccm
+614,Investigative Reports,"['GZA', ' Raekwon', ' Ghostface Killah', ' U-God']",Liquid Swords,10.0,"['GZA', ' Raekwon', ' Ghostface Killah', ' U-God']",Tcjddckl4x7tmhutlkc6vfoqxsm
+615,Swordsman,"['GZA', ' Killah Priest']",Liquid Swords,11.0,"['GZA', ' Killah Priest']",Tmxquukx5kcmh4qq6zcqtwob66a
+616,B.I.B.L.E. (Basic Instructions Before Leaving Earth),"['GZA', ' Killah Priest']",Liquid Swords,13.0,"['GZA', ' Killah Priest']",Tx4pbqzg3c7yhtuapn22bnu22im
+617,Don't You Worry Child - Radio Edit,"['Swedish House Mafia', ' John Martin']",Don't You Worry Child (feat. John Martin),1.0,"['Swedish House Mafia', ' John Martin']",Tf6lbybymki2ph6toc47jsoz2dm
+618,I'll Keep On,"['NF', ' Jeremiah Carlson']",Mansion,11.0,"['NF', ' Jeremiah Carlson']",Tmtlqdgdwxdgd2dnj44bdgr76pi
+619,Selfportrait,['Blue Scholars'],Blue Scholars,5.0,['Blue Scholars'],Tfj2rkzlxvi4lmqbt7zu4uqpqbe
+620,Until The Nipples Gone,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",1.0,['Atmosphere'],Toozhp3s3mqnlovkhrz4pj7m3hm
+621,The Major Leagues,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",2.0,['Atmosphere'],Tgjwswoqnrcdxlr475vk7rxbirm
+622,Scalp,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",3.0,['Atmosphere'],Thd3lo2qdtlip4xpxmtd6ttronq
+623,Americareful,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",5.0,['Atmosphere'],Tunvf57lujrld7twff7befhukqi
+624,Hope,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",6.0,['Atmosphere'],T3uugxqytzw4fsorhhxqthjphau
+625,Shotgun,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",8.0,['Atmosphere'],Twzbk2k7bkzjupijbux6m5mqua4
+626,Commodities,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",9.0,['Atmosphere'],T3lldhrogdgfkwlbtd2wddzpcvy
+627,The Number None,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",10.0,['Atmosphere'],T5sdqddlezbxgux3ukpfql2yh5m
+628,Freefallin',['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",11.0,['Atmosphere'],T3yi3e4c3ndw4zttgwk2euli75u
+629,To All My Friends,['Atmosphere'],"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",12.0,['Atmosphere'],Tto3zmxvjwqinnjbzr23ahmodfq
+630,Sympathy For The Devil,['The Rolling Stones'],Beggars Banquet,1.0,['The Rolling Stones'],T6skkbvlhhlrxcsk6p5otkauqmm
+631,Stairway to Heaven,['Rodrigo y Gabriela'],Rodrigo y Gabriela,6.0,['Rodrigo y Gabriela'],T3jd6bjgntyickqykjsajs7bpp4
+632,Candela,['Manolo Sanlucar'],Candela,1.0,['Manolo Sanlucar'],Tgknhvamyotlcunrm63luvgupee
+633,Am I A Psycho,['Tech N9ne'],All 6's And 7's,4.0,['Tech N9ne'],Txcrqlcirsfuqibiubrks2ighou
+634,Hollow Moon (Bad Wolf),['AWOLNATION'],Hollow Moon (Bad Wolf),1.0,['AWOLNATION'],Thvxbvzia3tdabyllsrdft7fogi
+635,Patience,['Nas & Damian Jr. Gong Marley'],Distant Relatives,11.0,['Nas & Damian Jr. Gong Marley'],Tdzhazfr2ff76kribif4fp2llfe
+636,Charmed Life (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,1.0,['RJD2'],Txl7s3ex76fwxi22egnczgs6fdm
+637,Just Love Me (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,2.0,['RJD2'],Ts3c7nt4qanbpkki6ppqxpzf324
+638,Going and Going. And Going. (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,3.0,['RJD2'],Tiwauivdsgjqggt4sztovhj4tdy
+639,King Tut (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,4.0,['RJD2'],Tr6u2rxurvzucfenyokqnkipcqm
+640,King Tut (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,4.0,['RJD2'],Tr6u2rxurvzucfenyokqnkipcqm
+641,Wander (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,5.0,['RJD2'],Txnux2cm3wrxumax7e6s7hdf5je
+642,The Return of Tronson (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,6.0,['RJD2'],Ty7thyofmdzyaqfvbmgyd7or3qe
+643,I'm Green (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,8.0,['RJD2'],Tff7yeivr6fgimpomroq65moyku
+644,Gun for Hire (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,9.0,['RJD2'],Tb5legmlldzqlcpszesn5ofhyi4
+645,In Exile (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,10.0,['RJD2'],Tgodqrygwxbi4pqxkmzepz6h2oi
+646,"Please, Don't (Instrumental Version)",['RJD2'],The Abandoned Lullaby - Instrumentals,11.0,['RJD2'],Tneiusergjgvsgdu7q57vvy2xky
+647,Find Yourself (Instrumental Version),['RJD2'],The Abandoned Lullaby - Instrumentals,12.0,['RJD2'],Tgkqzwznylmoxrzjqu4nugvqnhu
+648,Stayin' Alive - Remastered Version,['Bee Gees'],Number Ones,11.0,['Bee Gees'],
+649,Where Is Now,['David Maxim Micic'],Bilo 3.0,2.0,['David Maxim Micic'],
+650,Wrinkle Maze,['David Maxim Micic'],Bilo 3.0,5.0,['David Maxim Micic'],
+651,Daydreamers,['David Maxim Micic'],Bilo 3.0,6.0,['David Maxim Micic'],
+652,Ain't No Mountain High Enough - Mono Version,"['Marvin Gaye', ' Tammi Terrell']",Anthology,16.0,"['Marvin Gaye', ' Tammi Terrell']",Tmlprwolxf7kasojyuim75deqta
+653,Escape (The Pina Colada Song),['Rupert Holmes'],Partners In Crime,1.0,['Rupert Holmes'],T2j72za2tan6wnuht5f7kxhvxzq
+654,O-o-h Child - Remastered,['The Five Stairsteps'],The First Family of Soul: The Best of The Five Stairsteps,17.0,['The Five Stairsteps'],T4vplzya43k4yuyrwwcvj5yfqn4
+655,Come And Get Your Love,['Redbone'],The Best Of Redbone,1.0,['Redbone'],T4onpeldxryt4mhjxmvjgujopue
+656,Cherry Bomb,['The Runaways'],The Runaways,1.0,['The Runaways'],T67k2gsdzm7p4zdrm7recvmmvna
+657,I Want You Back,['The Jackson 5'],Greatest Hits,1.0,['The Jackson 5'],Tamyenflq2vsao5qe7l6hfihn3q
+658,I'm Not In Love,['10cc'],20th Century Masters: The Millennium Collection: Best Of 10CC,3.0,['10cc'],Tr4y7qyteco2joazmrbjrhqurua
+659,Fooled Around And Fell In Love,['Elvin Bishop'],Struttin' My Stuff,5.0,['Elvin Bishop'],Tqkx6ztpw76zonqskrosjz4ajze
+660,Spirit in the Sky,['Norman Greenbaum'],The Original Hit Recording - Spirit in the Sky,1.0,['Norman Greenbaum'],Tpilkjly5r3na2i6umwz3cluzua
+661,Moonage Daydream - 2012 Remastered Version,['David Bowie'],The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered Version),3.0,['David Bowie'],
+662,Hooked on a Feeling,"['Blue Swede', ' Björn Skifs']",Hooked On A Feeling,1.0,"['Blue Swede', ' Björn Skifs']",T6re3gjpwihv5mchy3e7txcyzi4
+663,Go All The Way,['Raspberries'],Raspberries,1.0,['Raspberries'],T7x5hx4mebhyreqybvzhu3bbxhq
+664,Of Mice And Men,['Megadeth'],Warchest,17.0,['Megadeth'],
+665,Kill The King,['Megadeth'],Warchest,10.0,['Megadeth'],
+666,Almost Honest - Remastered 2004/Remixed,['Megadeth'],Warchest,2.0,['Megadeth'],
+667,A Tout Le Monde - 2004 Digital Remaster,['Megadeth'],Warchest,19.0,['Megadeth'],
+668,New World Order - デモ,['Megadeth'],Warchest,14.0,['Megadeth'],
+669,Angry Again,['Megadeth'],Warchest,11.0,['Megadeth'],
+670,Sweating Bullets - Live At The Cow Palace/1992,['Megadeth'],Warchest,9.0,['Megadeth'],
+671,Ashes In Your Mouth - Live At The Cow Palace/1992,['Megadeth'],Warchest,8.0,['Megadeth'],
+672,Foreclosure Of A Dream - Remastered,['Megadeth'],Warchest,4.0,['Megadeth'],
+673,Symphony Of Destruction - 2004 Digital Remaster,['Megadeth'],Warchest,2.0,['Megadeth'],
+674,In My Darkest Hour,['Megadeth'],Warchest,11.0,['Megadeth'],
+675,Peace Sells - Remastered,['Megadeth'],Warchest,3.0,['Megadeth'],
+676,Killing Is My Business...And Business Is Good! - Remix,['Megadeth'],Warchest,1.0,['Megadeth'],
+677,Come Together,['Aerosmith'],Aerosmith's Greatest Hits,9.0,['Aerosmith'],Tjjoeikiy2yrh5apwj3rre34cka
+678,Home,['Edward Sharpe & The Magnetic Zeros'],Up From Below,6.0,['Edward Sharpe & The Magnetic Zeros'],Tdrhc5eyhgamsaiegorbrkvuv64
+679,Head Full Of Doubt/Road Full Of Promise,['The Avett Brothers'],I And Love And You,3.0,['The Avett Brothers'],Twzpsr2updhlrirgbdzxayre6ry
+680,Head Full Of Doubt/Road Full Of Promise,['The Avett Brothers'],I And Love And You,3.0,['The Avett Brothers'],Twzpsr2updhlrirgbdzxayre6ry
+681,What About Me?,['Snarky Puppy'],We Like It Here,2.0,['Snarky Puppy'],Tgiiumnvuckiusq45t76leo767a
+682,Someone New,['Hozier'],Hozier (Deluxe),4.0,['Hozier'],
+683,Best Friend,['Foster The People'],Supermodel,7.0,['Foster The People'],Twzfthtdvi5jk63qoixkskd7nji
+684,Wide Eyes,['Local Natives'],Gorilla Manor,1.0,['Local Natives'],T4m7dbfle2spcooc5kzhbt2ipzq
+685,Take Me to Church,['Hozier'],Hozier,1.0,['Hozier'],Trfel6cbyanproddqqnsf6kvgqq
+686,21 Guns,['Green Day'],21st Century Breakdown,16.0,['Green Day'],Tuijtvedotvuamgkwykajafezyu
+687,Fight Music,['D12'],Devils Night,11.0,['D12'],Tqg2cjatrjvggdtq6wvmy2blyam
+688,Triumph,"['Wu-Tang Clan', ' Cappadonna']",Wu-Tang Forever (Explicit),2.0,"['Wu-Tang Clan', ' Cappadonna']",
+689,Xxplosive,"['Dr. Dre', ' Hittman', ' Six-Two', ' Nate Dogg', ' Kurupt']",2001 (Explicit Version),6.0,"['Dr. Dre', ' Hittman', ' Six-Two', ' Nate Dogg', ' Kurupt']",Tlisvl575yiv4oiahwl6bqqwmrq
+690,Domo23,"['Tyler', ' The Creator']",Wolf,5.0,"['Tyler', ' The Creator']",T4i26jkkscyohzbpbj5us5xcslu
+691,Beat It,"['Fall Out Boy', ' John Mayer']",Believers Never Die - Greatest Hits,11.0,"['Fall Out Boy', ' John Mayer']",Te6uf43brkybri5jnc7eijjz4sa
+692,Here I Am,"['SOJA', ' Rebelution']",Born In Babylon,14.0,"['SOJA', ' Rebelution']",Ttxkzdcrpsd43ruy36uvocyvyvq
+693,Soundtrack 2 My Life,['Kid Cudi'],Man On The Moon: The End Of Day,2.0,['Kid Cudi'],Tvhqg62gr7s2obi6jf2ijfl7co4
+694,Fat Lip,['Sum 41'],"All Killer, No Filler",4.0,['Sum 41'],Tpe4xypwe3chcfkjfyb2mh5vqye
+695,The Middle,['Jimmy Eat World'],Bleed American (Deluxe Edition),3.0,['Jimmy Eat World'],Tdthlpabgeca6ptvmd2tc3mwiqi
+696,Yesterday,['Atmosphere'],"When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition]",9.0,['Atmosphere'],
+697,I Need A Dollar,['Aloe Blacc'],"I Need A Dollar 12""",1.0,['Aloe Blacc'],
+698,The Pretender,['Foo Fighters'],Greatest Hits,4.0,['Foo Fighters'],Thujjx4voetrjzz4u34hifyrxnu
+699,Smoke Two Joints,['Sublime'],Sublime Greatest Hits,5.0,['Sublime'],Taphb6xw75uemv3hcwtw5o422pu
+700,Behind Blue Eyes,['Limp Bizkit'],Results May Vary (EU Version),15.0,['Limp Bizkit'],
+701,The Season's Upon Us,['Dropkick Murphys'],SIGNED and SEALED in BLOOD,6.0,['Dropkick Murphys'],Tulklhypo7ey6y6cd524psnxfty
+702,Promises,['NERO'],Promises,1.0,['NERO'],Thesqlp4tmdbbhb2ywimiqdmn4e
+703,I'm Shipping Up To Boston,['Dropkick Murphys'],The Warrior's Code,11.0,['Dropkick Murphys'],Tvzdya3d4lqdu6aftrdmrawfd5i
+704,Holiday/Boulevard Of Broken Dreams,['Green Day'],American Idiot,3.0,['Green Day'],Txertk7g4ir6ncrjgepw34vmt7i
+705,Chop Suey!,['System Of A Down'],Toxicity,6.0,['System Of A Down'],Tjz3zo4y7c3kb73eldyudiyrkgq
+706,Last Nite,['The Strokes'],Is This It,7.0,['The Strokes'],Tpkqzskndk4osoqfkdf2bgoujm4
+707,"Take Me Home, Country Roads - Rerecorded",['John Denver'],"The John Denver Collection, Vol. 1: Take Me Home Country Roads",1.0,['John Denver'],T5tldxzvadrrw5y3szoe23qgtki
+708,Behind Blue Eyes,['The Who'],Thirty Years Of Maximum R&B,7.0,['The Who'],
+709,My Life,"['50 Cent', ' Eminem', ' Adam Levine']",My Life,1.0,"['50 Cent', ' Eminem', ' Adam Levine']",Tyuhvyhrwpo6gmaa72mauaygpiq
+710,"Nasty Girl - Featuring Diddy, Nelly, Jagged Edge and Avery Storm Amended Album Version",['The Notorious B.I.G.'],Duets: The Final Chapter,9.0,['The Notorious B.I.G.'],
+711,Stan,"['Eminem', ' Dido']",Curtain Call (Deluxe),5.0,"['Eminem', ' Dido']",Tdf3bw6wpjdholqsgueesdjjdw4
+712,It Was A Good Day,['Ice Cube'],The Greatest Hits,10.0,['Ice Cube'],Th6viukxuc6wdqbpaxzlok5rfqa
+713,Hate It Or Love It,"['The Game', ' 50 Cent']",The Documentary,4.0,"['The Game', ' 50 Cent']",Tt3vd3seddtqf4gdp7q3pq4r5w4
+714,The Next Episode,"['Dr. Dre', ' Snoop Dogg']",2001,11.0,"['Dr. Dre', ' Snoop Dogg']",T3ee27jftiqgdpglc7nkhjryjiq
+715,Check Yo Self - Remix,"['Ice Cube', ' Das EFX']",The Greatest Hits,2.0,"['Ice Cube', ' Das EFX']",Tabq3o64lrfeggdgnbndyeoijne
+716,Ruff Ryders' Anthem,['DMX'],It's Dark And Hell Is Hot,2.0,['DMX'],Tvupvvcqngd6ky47273jd6jxuvq
+717,When The Sun Goes Down,['Arctic Monkeys'],"Whatever People Say I Am, That's What I'm Not",11.0,['Arctic Monkeys'],T3saaf6muhd3qimht2jpth7q44a
+718,Rebirth Of Slick (Cool Like Dat),['Digable Planets'],Reachin' (A New Refutation Of Time And Space),6.0,['Digable Planets'],Tfjp62yc7in4mqra6g3z2o73vyu
+719,Hurt,['Johnny Cash'],Unearthed,15.0,['Johnny Cash'],Tg6nw7tfqag5sjldintqs2ogmia
+720,Hurt,['Johnny Cash'],Unearthed,15.0,['Johnny Cash'],Tg6nw7tfqag5sjldintqs2ogmia
+721,Handlebars,['Flobots'],Fight With Tools,6.0,['Flobots'],Tumspjhbra2mray6acvbvfxnrji
+722,Two Weeks,['Grizzly Bear'],Veckatimest,2.0,['Grizzly Bear'],Tgbzqry6ni2i622gdvibnm6bwj4
+723,Gimme Shelter,['The Rolling Stones'],Let It Bleed,1.0,['The Rolling Stones'],T4we6576rcqgaysm7xvobgvwcim
+724,Panic Station,['Muse'],The 2nd Law,3.0,['Muse'],Tlx7qo7bzeums4a6ks2gex5vjeq
+725,Short Skirt / Long Jacket,['Cake'],Comfort Eagle,4.0,['Cake'],T7lk7cotsjucbwxfc6ugewz4abi
+726,Little Black Submarines - radio edit,['The Black Keys'],Little Black Submarines,1.0,['The Black Keys'],
+727,I Need A Doctor,"['Dr. Dre', ' Eminem', ' Skylar Grey']",I Need A Doctor,1.0,"['Dr. Dre', ' Eminem', ' Skylar Grey']",Tixkhlsqlvgcnfz6riuavmoevjq
+728,Forgot About Dre,"['Dr. Dre', ' Eminem']",2001,10.0,"['Dr. Dre', ' Eminem']",Togqdb5dnegimylsqfwwud5mlue
+729,Lose Yourself - Soundtrack Version,['Eminem'],Lose Yourself,1.0,['Eminem'],T4y3rya5av3oeioibadxkakg57u
+730,Hailie's Song,['Eminem'],The Eminem Show,14.0,['Eminem'],Tedwqnvwiuyuaomceghszatn7dy
+731,Not Afraid,['Eminem'],Recovery,7.0,['Eminem'],T5l7yxvsibofxwbu7leo7cs2lru
+732,Survival,['Eminem'],The Marshall Mathers LP2 (Deluxe),5.0,['Eminem'],T3jpvgdgmlufu4jfdghxgqte3fa
+733,Not Afraid,['Eminem'],Recovery,7.0,['Eminem'],T5l7yxvsibofxwbu7leo7cs2lru
+734,Don't Shoot Me Santa,"['The Killers', ' Ryan Pardey']",Don't Shoot Me Santa,1.0,"['The Killers', ' Ryan Pardey']",Tmgknxoaxktoq5zhzwjsptdu4oe
+735,¡Happy Birthday Guadalupe!,"['The Killers', ' Wild Light', ' Mariachi El Bronx']",¡Happy Birthday Guadalupe!,1.0,"['The Killers', ' Wild Light', ' Mariachi El Bronx']",Tjwjklf6qf5qaqnxetlnrx6x76u
+736,"Andy, You're A Star",['The Killers'],Hot Fuss,6.0,['The Killers'],Tna4aq4a4266qbn2crnlhazn2z4
+737,Jenny Was A Friend Of Mine,['The Killers'],Hot Fuss,1.0,['The Killers'],Tsekg24tdvmiianfkun7p2knf4u
+738,Tranquilize,"['The Killers', ' Lou Reed']",Sawdust,1.0,"['The Killers', ' Lou Reed']",Th5olel7h25zudqru45quuuhksa
+739,All These Things That I've Done,['The Killers'],Direct Hits,4.0,['The Killers'],Teyrytyvgwnouszgvlde2ip2c2y
+740,Human,['The Killers'],Day & Age,2.0,['The Killers'],Tkr6xz7nolzufx5li6lb64j2qcy
+741,All These Things That I've Done,['The Killers'],Hot Fuss,5.0,['The Killers'],Txmvhgrv5pijurqimhcg4emjfci
+742,When You Were Young,['The Killers'],Sam's Town,3.0,['The Killers'],Tu6itdswgreieivyjmxayk6jbky
+743,Mr. Brightside,['The Killers'],Hot Fuss,2.0,['The Killers'],T4qimilrtjxqqhkwnnayaito3su
+744,Use Somebody,['Kings of Leon'],Only By The Night,4.0,['Kings of Leon'],Tdcncbzpb4ggxefofznyjmoxwea
+745,American Pie,['Don McLean'],The Best Of Don McLean,1.0,['Don McLean'],Tz42in7zc2gbryfsbpnxssvhtcm
+746,You Can't Always Get What You Want,['The Rolling Stones'],Let It Bleed,9.0,['The Rolling Stones'],Ttdtliijzu7zdtlzo3tvwmb4xe4
+747,I Love College,['Asher Roth'],I Love College,1.0,['Asher Roth'],Txyiunttmmfeihzzvsi47mqaona
+748,Peaches & Cream,['John Butler Trio'],Sunrise Over Sea,2.0,['John Butler Trio'],Tjnltk2rq25wushwfq7kku7ddga
+749,Betterman,['John Butler Trio'],Sunrise Over Sea,4.0,['John Butler Trio'],Tyhphekn2eiy4ho4pktkwkp6lbi
+750,Two Shoes,['The Cat Empire'],Two Shoes,4.0,['The Cat Empire'],Toxt6aiek2qc7xrxiybpcigojsa
+751,Sly,['The Cat Empire'],Two Shoes,1.0,['The Cat Empire'],Trukfk6mjh3443jqad3jmmjknra
+752,Feeling's Gone,['The Cat Empire'],Cinema,2.0,['The Cat Empire'],T4elgikxneyxzjjpfcs3zbsdxte
+753,Rainbow in the Dark,['Dio'],The Very Beast Of Dio,3.0,['Dio'],Thpm75veafqpby52evctet7ywuu
+754,Somebody Told Me,['The Killers'],Hot Fuss,4.0,['The Killers'],Tgwibbr4krhxexlvumetqyps55e
+755,Free,['Zac Brown Band'],The Foundation,5.0,['Zac Brown Band'],Tmtxldcwpeidcewzpsoqfhzbeou
+756,One For The Road,['Arctic Monkeys'],AM,3.0,['Arctic Monkeys'],Ty6vrpq5qibkpoeghaqps6opcsq
+757,Breezeblocks,['alt-J'],An Awesome Wave,4.0,['alt-J'],To23lompzlp6pg6uyz56gcqi7pq
+758,Don't Take Your Guns to Town,['Johnny Cash'],Classic Summer Country Masters,3.0,['Johnny Cash'],
+759,A Boy Named Sue - Live,['Johnny Cash'],The Essential Johnny Cash,7.0,['Johnny Cash'],Tpnwgui3hbzwyqr5idrml3snwjm
+760,A Boy Named Sue - Live,['Johnny Cash'],The Essential Johnny Cash,7.0,['Johnny Cash'],Tpnwgui3hbzwyqr5idrml3snwjm
+761,God's Gonna Cut You Down,['Johnny Cash'],American V: A Hundred Highways,2.0,['Johnny Cash'],Tognp6nqr4lbem5dsz3tzgurht4
+762,You're My Best Friend - Remastered 2011,['Queen'],Queen 40 Limited Edition Collector's Box Set,4.0,['Queen'],T2ydmphmpmyhgkpmty2f4fgnuxi
+763,Under Pressure - Remastered,"['Queen', ' David Bowie']",Greatest Hits II,2.0,"['Queen', ' David Bowie']",Tyayblteoz7nqix7xbobrkmgndi
+764,Don't Stop Me Now - Remastered,['Queen'],Jazz (Deluxe Remastered Version),12.0,['Queen'],
+765,Knockin' On Heaven's Door - Remastered,['Bob Dylan'],Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture) (Remastered),7.0,['Bob Dylan'],Tn4itrujpncmnfq73wx5p3ig3zq
+766,Like a Rolling Stone,['Bob Dylan'],Highway 61 Revisited,1.0,['Bob Dylan'],Taekrkrb4izek2banz3adq4nzyq
+767,Hand Of Doom - Remastered Version,['Black Sabbath'],Complete Studio Albums 1970-1978,6.0,['Black Sabbath'],Tneoycoav4qjrocgwihmpkwb57q
+768,Just A Friend,['Biz Markie'],Biz's Baddest Beats: The Best Of Biz Markie,10.0,['Biz Markie'],Tgfoaaee5rouie2hz22ud6smkce
+769,Jubel - Original Mix,['Klingande'],Jubel,2.0,['Klingande'],Ts63qjzqhmgueteeiisdsxf3ui4
+770,Demons,['Imagine Dragons'],Night Visions (Deluxe),4.0,['Imagine Dragons'],Tvae2wwrjmgzm55gmjcosd3mfpq
+771,One Day / Reckoning Song (Wankelmut Remix) [Radio Edit],"['Asaf Avidan & the Mojos', ' Wankelmut']",One Day / Reckoning Song (Wankelmut Remix) [Radio Edit],1.0,"['Asaf Avidan & the Mojos', ' Wankelmut']",
+772,Feel So Close - Radio Edit,['Calvin Harris'],18 Months,3.0,['Calvin Harris'],Tqf57qye3nyrdfu5wianjyux5hi
+773,Treasure,['Bruno Mars'],Unorthodox Jukebox,4.0,['Bruno Mars'],Tuibwtagcscd276nttl67fl4xdy
+774,All Night,['Icona Pop'],THIS IS... ICONA POP,2.0,['Icona Pop'],Ts2r7qb7i3hwsq4wzeivchuz3ou
+775,"Non, je ne regrette rien",['Édith Piaf'],Edith Piaf - The Best Of,1.0,['Édith Piaf'],Tcngnkyq4rbboim2fvirsq2uzoe
+776,Let Her Go,['Passenger'],All The Little Lights,2.0,['Passenger'],Tgy4ivunwgeglxjy7aqvhhdsfey
+777,Hallowed Be Thy Name,['Iron Maiden'],Somewhere Back In Time - The Best of 1980-1989,14.0,['Iron Maiden'],Tx5tbkkypaac7ugfe7d3xraflcq
+778,R U Mine?,['Arctic Monkeys'],AM,2.0,['Arctic Monkeys'],Tepbcrdwitlr27zdfmoorj6ewq4
+779,Do I Wanna Know?,['Arctic Monkeys'],AM,1.0,['Arctic Monkeys'],Tw2gztu3sqjdjbocgnqd7n4kyjq
+780,Why'd You Only Call Me When You're High?,['Arctic Monkeys'],Why'd You Only Call Me When You're High?,1.0,['Arctic Monkeys'],
+781,Drops of Jupiter,['Train'],Drops Of Jupiter,3.0,['Train'],Te2xij7g5tr2qcpfz7udg227kba
+782,What a Wonderful World,['Louis Armstrong'],Golden Oldies: It's All About the Songs,2.0,['Louis Armstrong'],
+783,Dust in the Wind,['Kansas'],The Best Of Kansas,4.0,['Kansas'],T4oxd7ptc53he2moizn2o2u7cf4
+784,Hurt,['Johnny Cash'],The Legend Of Johnny Cash,21.0,['Johnny Cash'],Tjneqttrnkguwox464ytsspe7h4
+785,Hotel California - Remastered,['Eagles'],The Complete Greatest Hits (Remastered),17.0,['Eagles'],
+786,Break These Chains,['Raygun Cowboys'],Cowboy Up!,1.0,['Raygun Cowboys'],T5hyij24hybhiygyeiyrnu76vnm
+787,(Take These) Chains,['Judas Priest'],Screaming For Vengeance Special 30th Anniversary Edition,5.0,['Judas Priest'],T6k56mqpdescxltrhkgt52bugxu
+788,Just The Two Of Us,['Will Smith'],Big Willie Style,13.0,['Will Smith'],Tk62nmnf7pxsnp7crlo6dhtcpqm
+789,Love Somebody,['Maroon 5'],Overexposed (Deluxe),6.0,['Maroon 5'],Ts4qtvz7ifqmgzcp7zipkb6iuae
+790,"Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",['Pink Floyd'],The Best Of Pink Floyd: A Foot In The Door (2011 Remastered Version),4.0,['Pink Floyd'],
+791,Comfortably Numb - 2011 Remastered Version,['Pink Floyd'],The Best Of Pink Floyd: A Foot In The Door (2011 Remastered Version),10.0,['Pink Floyd'],
+792,Wish You Were Here - 2011 Remastered Version,['Pink Floyd'],Wish You Were Here [2011 - Remaster] (2011 Remastered Version),4.0,['Pink Floyd'],
+793,It Was A Very Good Year - Remastered 2008,['Frank Sinatra'],Nothing But The Best (Remastered),14.0,['Frank Sinatra'],Tnhxzlvmlhnqwy3nfjtezhqizhq
+794,tous les mêmes,['Stromae'],Racine Carrée (Standard US Version),5.0,['Stromae'],Tarts6e6tjhyzn6jhahyjqhunqm
+795,Lean on Me,['Bill Withers'],Lean on Me: The Best of Bill Withers,3.0,['Bill Withers'],Tgk5h6u5qbrbsyqvhcy5rrbykqq
+796,Get Lucky,"['Daft Punk', ' Pharrell Williams', ' Nile Rodgers']",Random Access Memories,8.0,"['Daft Punk', ' Pharrell Williams', ' Nile Rodgers']",Tn5ffsjyzeolxehkzxds5nqkdii
+797,End Of The Beginning,['Black Sabbath'],13,1.0,['Black Sabbath'],T3vs5qm33bkctox7tcloi246etm
+798,Loner,['Black Sabbath'],13,3.0,['Black Sabbath'],T2i2rptnn4am4pg6pkg7pte4bom
+799,Zeitgeist,['Black Sabbath'],13,4.0,['Black Sabbath'],Tnyykoj5v2valc3zv7qavcrhk24
+800,Zeitgeist,['Black Sabbath'],13,4.0,['Black Sabbath'],Tnyykoj5v2valc3zv7qavcrhk24
+801,Age Of Reason,['Black Sabbath'],13,5.0,['Black Sabbath'],Tg6mm2yplsxfq6n4yj72dde6naa
+802,Live Forever,['Black Sabbath'],13,6.0,['Black Sabbath'],Ttqogtg5hgwrxypemp5tdsyd36i
+803,Damaged Soul,['Black Sabbath'],13,7.0,['Black Sabbath'],Tjsf7o243zl42or4vmb7q4rwsei
+804,Dear Father,['Black Sabbath'],13,8.0,['Black Sabbath'],Tbic5i5lhbo7pjzyfmqidwb4dlm
+805,Methademic,['Black Sabbath'],13,9.0,['Black Sabbath'],Tuqy22rl4eehwkwcmybrqrfwxsa
+806,Peace Of Mind,['Black Sabbath'],13,10.0,['Black Sabbath'],Tx3g5w464ila5sfhkuifeuqs4ve
+807,Pariah,['Black Sabbath'],13,11.0,['Black Sabbath'],Tq4u7ncdkfunu66vwtgkjp4laje
+808,Dirty Women - Live in Australia / 2013,['Black Sabbath'],13,12.0,['Black Sabbath'],
+809,Get Lucky,['Mike Star'],Get Lucky (Up All Night To Get Lucky),1.0,['Mike Star'],Tldaymyjz6z5q6zcx5vfy3t5hvm
+810,Bohemian Rhapsody - Remastered 2011,['Queen'],Queen 40 Limited Edition Collector's Box Set,11.0,['Queen'],Tuwsfw2ulrapg22mlc6qcwel3d4
+811,Carry On Wayward Son,['Kansas'],The Best Year Of My Life: 1977,11.0,['Kansas'],
+812,The House Of The Rising Sun,['The Animals'],Most Of The Animals,1.0,['The Animals'],
+813,Seven Nation Army,['The White Stripes'],Elephant,1.0,['The White Stripes'],Ttuyauauhw3zyioeglbx2hyo2xm
+814,"Paint It, Black",['The Rolling Stones'],GRRR! (Deluxe Version),12.0,['The Rolling Stones'],
+815,Mother,['Danzig'],Danzig,6.0,['Danzig'],Ttbmz5iusipj2s3gfa3mqlfs2se
+816,Fear Of The Dark - 1998 Remastered Version,['Iron Maiden'],Ed Hunter,6.0,['Iron Maiden'],
+817,Best of You,['Foo Fighters'],Greatest Hits,2.0,['Foo Fighters'],T3ofn3h5dgvy55er4ek76s2gtiu
+818,All of Me,['John Legend'],Love In The Future,6.0,['John Legend'],Tm3frvdfnyjp762fuukqgkkatga
+819,Stranger In a Strange Land,['Iron Maiden'],Somewhere in Time,6.0,['Iron Maiden'],T54mvijktl4jrds3dtjrtvly4aq
+820,Afraid to Shoot Strangers,"['Iron Maiden', ' Steve Harris', ' Martin Birch']",Fear of the Dark,3.0,"['Iron Maiden', ' Steve Harris', ' Martin Birch']",Twlvaymkrv4b426ldgc2udwryyi
+821,Can I Play With Madness,['Iron Maiden'],Somewhere Back In Time - The Best of 1980-1989,12.0,['Iron Maiden'],Tfjk4izf2hrzu7bd3mr3ymsalqm
+822,2 Minutes to Midnight,['Iron Maiden'],Powerslave,2.0,['Iron Maiden'],Ttjisylmzzjvreoiycixjcswyxy
+823,Fear of the Dark,['Iron Maiden'],Fear of the Dark,12.0,['Iron Maiden'],T4ijwgaw5lgkvdr6urqklw4ius4
+824,Alexander the Great (356-323 B.C.),['Iron Maiden'],Somewhere in Time,8.0,['Iron Maiden'],Tbe5wgxm7mmacwk3wvua2eibwki
+825,"You're Gonna Go Far, Kid",['The Offspring'],"Rise And Fall, Rage And Grace",3.0,['The Offspring'],Texqikg3opxxmwb5ao6ptj2of5e
+826,Fly Me To The Moon - Remastered,"['Frank Sinatra', ' Count Basie']",Nothing But The Best (Remastered),8.0,"['Frank Sinatra', ' Count Basie']",Tzsrai5sgeevbclt76exvwzavre
+827,Blister in the Sun - 2002 Remastered Version,['Violent Femmes'],Violent Femmes,1.0,['Violent Femmes'],Ti45qogrgcec3fvinkq44n5kygy
+828,Jaguar,['Mogwai'],Les Revenants,2.0,['Mogwai'],Tls2b2fuuwsyox6aixgmcwuam44
+829,Crack a Bottle - Originally Recorded by Eminem feat. Dr. Dre & 50 Cent,['R&B Urban Allstars'],R&B Hits - Massive R&B Chart Versions (R and B Collection) - Deluxe Version,11.0,['R&B Urban Allstars'],
+830,"Traditional Arrangement: ""Moonshine""",['Alexandre Desplat'],The Grand Budapest Hotel (Original Soundtrack),32.0,['Alexandre Desplat'],T5buj7irsg35cezvpoyth6vqlbi
+831,Crazy,['Gnarls Barkley'],St. Elsewhere,2.0,['Gnarls Barkley'],Tnhvqeb4v7pbkzv3awrkh4gupla
+832,The Mighty Rio Grande,['This Will Destroy You'],S/T,5.0,['This Will Destroy You'],Tblnhonagrphvjcwcvjcfddf7vu
+833,"Silent Flight, Sleeping Dawn",['MONO'],Hymn To The Immortal Wind,3.0,['MONO'],Tfozzgau4wu3trqiszsuih6yiuu
+834,Your Hand In Mine,['Explosions In The Sky'],The Earth Is Not a Cold Dead Place,5.0,['Explosions In The Sky'],Tyd3wequtgxjeobidi5pj4hh454
+835,Sexual Healing,['Marvin Gaye'],Midnight Love,2.0,['Marvin Gaye'],Tnvfxf7tpjyuwq4j2haikt76uqe
+836,Sway,['Michael Bublé'],Michael Bublé (US Version),10.0,['Michael Bublé'],Tat6fzqefovwvkbzngzlezpjdmu
+837,So Much Better,['Eminem'],The Marshall Mathers LP2 (Deluxe),4.0,['Eminem'],Teex72ka7tumzskorbogdse6aau
+838,Bad Guy,['Eminem'],The Marshall Mathers LP2 (Deluxe),1.0,['Eminem'],T75ummeqlzcrahv3eb5jfavq7ha
+839,Babe I'm Gonna Leave You - 2007 Remastered Version,['Led Zeppelin'],Mothership,4.0,['Led Zeppelin'],
+840,Babe I'm Gonna Leave You - 2007 Remastered Version,['Led Zeppelin'],Mothership,4.0,['Led Zeppelin'],
+841,Iron Man,['Black Sabbath'],Lords Of Dogtown,12.0,['Black Sabbath'],
+842,War Pigs/Luke's Wall - Remastered Version,['Black Sabbath'],Paranoid (Remastered Edition),1.0,['Black Sabbath'],T44ibvif2yqgvezdoxfikyye2fe
+843,A Bit of Finger / Sleeping Village / Warning - Remastered Version,['Black Sabbath'],Complete Studio Albums 1970-1978,5.0,['Black Sabbath'],Ttvjzdapp6ngv3gsqf774onvqoy
+844,Ring Me,['Duck Sauce'],Quack,9.0,['Duck Sauce'],
+845,Everyone (feat. Teddy Toothpick),"['Duck Sauce', ' Teddy Toothpick']",Quack,8.0,"['Duck Sauce', ' Teddy Toothpick']",
+846,Wake Me Up,['Avicii'],Wake Me Up,1.0,['Avicii'],T2qgmrs5licf7fncfxttdwfcgtq
+847,Eye of the Tiger,['Survivor'],Rocky IV,4.0,['Survivor'],Tglv3qe5zmpfujmhhmn6upuugna
+848,The News,"['Jack Johnson', ' Adam Topol', ' Merlo']",Brushfire Fairytales (Bonus Version),8.0,"['Jack Johnson', ' Adam Topol', ' Merlo']",Tpkdo233lqfj5c2julltqk4ryou
+849,Inaudible Melodies,"['Jack Johnson', ' Adam Topol', ' Merlo']",Brushfire Fairytales (Bonus Version),1.0,"['Jack Johnson', ' Adam Topol', ' Merlo']",T6u5bdylwoly6wsjug4iiczpznu
+850,Banana Pancakes,['Jack Johnson'],In Between Dreams,3.0,['Jack Johnson'],Tvl6d2px4muxlk4lucxohe4cgzu
+851,Ain't No Sunshine,['Bill Withers'],The Best Of Bill Withers: Lean On Me,7.0,['Bill Withers'],Tu6y4pjhotnrkx2qu64qknzandq
+852,Seven Nation Army,['The White Stripes'],Elephant,1.0,['The White Stripes'],Ttuyauauhw3zyioeglbx2hyo2xm
+853,Rap God,['Eminem'],Rap God,1.0,['Eminem'],Tm7e43nzxer7bjxckex26pfwcvi
+854,Full Moon,['Sonata Arctica'],For The Sake Of Revenge,4.0,['Sonata Arctica'],
+855,Yonkers,"['Tyler', ' The Creator']",Goblin (Deluxe Edition),2.0,"['Tyler', ' The Creator']",
+856,Sleepyhead,['Passion Pit'],Manners,9.0,['Passion Pit'],T2if4ocr4mx56fwx7ivnlkp5xbm
+857,We Own It (Fast & Furious),"['2 Chainz', ' Wiz Khalifa']",Fast & Furious 6,1.0,"['2 Chainz', ' Wiz Khalifa']",Tkxrqa7q427lwoak6pkxy4tefjm
+858,Remember You - feat. The Weeknd,"['Wiz Khalifa', ' The Weeknd']",O.N.I.F.C. (Deluxe),16.0,"['Wiz Khalifa', ' The Weeknd']",Tjigwto62mpckculgumc36ji7qe
+859,Flagpole Sitta,['Harvey Danger'],Where Have All The Merrymakers Gone?,2.0,['Harvey Danger'],T2thwzlvk6chjennetudqz7du44
+860,Rocket - Original Club Mix,['Tom Staar'],Rocket,1.0,['Tom Staar'],Tuzm222br54kbvbhfjwwh2xpkp4
+861,Freedom,['Foxy Shazam'],The Church Of Rock And Roll,11.0,['Foxy Shazam'],T7g4gjuvnzwsavjpj7skdxmyyb4
+862,Blue in Green,['Miles Davis'],Kind Of Blue (Legacy Edition),3.0,['Miles Davis'],Trpbnr5wj5edn76cuwyuwcne6ve
+863,Piano Man,['Billy Joel'],The Essential Billy Joel,1.0,['Billy Joel'],Twx7kpapwmir7z7llm6sqqy25pq
+864,Make You Feel My Love,['Bob Dylan'],The Essential Bob Dylan,12.0,['Bob Dylan'],Tcwsa2ffq6kd4iz4vlixai3iy7m
+865,The Times They Are A-Changin',['Bob Dylan'],Music From The Motion Picture Watchmen,3.0,['Bob Dylan'],
+866,Ride Of The Valkyries,['Budapest Symphony Orchestra'],Music From The Motion Picture Watchmen,11.0,['Budapest Symphony Orchestra'],
+867,Stairway To Heaven,['Led Zeppelin'],Led Zeppelin IV,4.0,['Led Zeppelin'],T5orx2jn6urebmnlc77qzrh6peq
+868,Coming Home,['Megadeth'],Warchest,15.0,['Megadeth'],
+869,Panacea For The Poison,['Flobots'],Survival Story,12.0,['Flobots'],Tamqptntk3shoemtpytfi4vmnzi
+870,Hey You - 2011 Remastered Version,['Pink Floyd'],The Best Of Pink Floyd: A Foot In The Door (2011 Remastered Version),1.0,['Pink Floyd'],
+871,Detroit Rock City,['KISS'],Smashes Thrashes & Hits,4.0,['KISS'],Thjavhqfnh4spcyfqpzkh44soxi
+872,Bleed It Out,['Linkin Park'],Minutes To Midnight (Explicit Version),4.0,['Linkin Park'],Tjoz5rxoghusawrl5fphchrceeq
+873,Alone,['Judas Priest'],Nostradamus,3.0,['Judas Priest'],Toclhatv4xe7sdpigsn7vpnto5e
+874,The Ryhthm,['The Cat Empire'],The Cat Empire,7.0,['The Cat Empire'],Tlf47o7g2sbckfajv3obxpwg2za
+875,Handlebars,['Flobots'],Fight With Tools,6.0,['Flobots'],Tumspjhbra2mray6acvbvfxnrji
+876,God Is Dead?,['Black Sabbath'],13,2.0,['Black Sabbath'],Tmyfbqmeqbtdtqor6yoqwzsq4gq
+877,"Theme from New York, New York",['Frank Sinatra'],Sinatra: Best Of The Best,23.0,['Frank Sinatra'],Tukvkguuwyglhkjuimljdkpk7em
+878,Come Fly With Me - Remastered,['Frank Sinatra'],Come Fly With Me (Remastered),1.0,['Frank Sinatra'],Tg7yqrctjami72zm3z4w7fhmlg4
